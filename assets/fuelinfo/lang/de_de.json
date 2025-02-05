@@ -1,0 +1,27 @@
+{
+  "message.fuelinfo.furnace.items": "§e%d Item(s)",
+  "message.fuelinfo.furnace.stacks": "§e%d Stapel",
+  "message.fuelinfo.furnace.both": "§e%d Stapel und §e%d Item(s)",
+
+  "message.fuelinfo.brewing_stand": "§e%d Tränke",
+  "message.fuelinfo.brewing_stand.set": "§e%d §fSet(s)",
+
+  "message.fuelinfo.timer": "Zeit: %s:%s",
+  "message.fuelinfo.timer.current": "Zeit: %s:%s",
+
+
+  "configOption.fuelinfo.showFuelData": "Anzahl",
+  "configOption.fuelinfo.showFuelData.desc": "Wenn aktiviert, zeigt es an wie viele Items oder Stapel verarbeitet werden können.",
+
+  "configOption.fuelinfo.showTimer": "Brenndauer",
+  "configOption.fuelinfo.showTimer.desc": "Wenn aktiviert, zeigt es die verbleibende Brenndauer eines Ofens an.",
+
+  "configGroup.fuelinfo.flame": "Flamme",
+  "configGroup.fuelinfo.flame.desc": "Stelle ein, welche Elemente angezeigt werden sollen, wenn du mit der Maus über die Flamme bewegst.",
+
+  "configGroup.fuelinfo.gauge": "Pfeil",
+  "configGroup.fuelinfo.gauge.desc": "Stelle ein, welche Elemente angezeigt werden sollen, wenn du mit der Maus über die Treibstoffanzeige eines Braustandes bewegst.",
+
+  "configGroup.fuelinfo.progress_arrow": "Fortschrittsanzeige",
+  "configGroup.fuelinfo.progress_arrow.desc": "Stelle ein, welche Elemente angezeigt werden sollen, wenn du mit der Maus über die Fortschrittsanzeige bewegst."
+}
