@@ -1128,6 +1128,6 @@
   "key.journeymap.zoom_in": "Hineinzoomen",
   "key.journeymap.zoom_out": "Herauszoomen",
 
-  "modmenu.summaryTranslation.wildfire_genders": "Fügt eine Minimap hinzu, die im Spiel angezeigt wird.",
-  "modmenu.descriptionTranslation.wildfire_genders": "Eine dynamische Minimap, Wegpunkte, Höhlenkarten, Biome, Oberflächenkarten, Radar, und mehr."
+  "modmenu.summaryTranslation.journeymap": "Fügt eine Minimap hinzu, die im Spiel angezeigt wird.",
+  "modmenu.descriptionTranslation.journeymap": "Eine dynamische Minimap, Wegpunkte, Höhlenkarten, Biome, Oberflächenkarten, Radar, und mehr."
 }
