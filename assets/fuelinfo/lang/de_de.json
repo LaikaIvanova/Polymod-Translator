@@ -25,6 +25,6 @@
   "configGroup.fuelinfo.progress_arrow": "Fortschrittsanzeige",
   "configGroup.fuelinfo.progress_arrow.desc": "Stelle ein, welche Elemente angezeigt werden sollen, wenn du mit der Maus über die Fortschrittsanzeige bewegst.",
 
-  "modmenu.summaryTranslation.fuelinfo": "Adds various food-related HUD improvements",
-  "modmenu.descriptionTranslation.fuelinfo": "Adds various food-related HUD improvements"
+  "modmenu.summaryTranslation.fuelinfo": "Fügt zusätzliche Informationen für den Ofen und Braustand hinzu.",
+  "modmenu.descriptionTranslation.fuelinfo": "Fügt zusätzliche Informationen für den Ofen und Braustand hinzu, z.B. wie viele Items verarbeitet werden können oder wie lange es dauert, bis alle Items verarbeitet werden."
 }
