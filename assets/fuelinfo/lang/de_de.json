@@ -23,5 +23,8 @@
   "configGroup.fuelinfo.gauge.desc": "Stelle ein, welche Elemente angezeigt werden sollen, wenn du mit der Maus über die Treibstoffanzeige eines Braustandes bewegst.",
 
   "configGroup.fuelinfo.progress_arrow": "Fortschrittsanzeige",
-  "configGroup.fuelinfo.progress_arrow.desc": "Stelle ein, welche Elemente angezeigt werden sollen, wenn du mit der Maus über die Fortschrittsanzeige bewegst."
+  "configGroup.fuelinfo.progress_arrow.desc": "Stelle ein, welche Elemente angezeigt werden sollen, wenn du mit der Maus über die Fortschrittsanzeige bewegst.",
+
+  "modmenu.summaryTranslation.fuelinfo": "Adds various food-related HUD improvements",
+  "modmenu.descriptionTranslation.fuelinfo": "Adds various food-related HUD improvements"
 }
