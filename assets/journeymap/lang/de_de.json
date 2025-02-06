@@ -1126,5 +1126,8 @@
   "key.journeymap.toggle_render_waypoints_world": "Toggle Waypoint World Rendering",
   "key.journeymap.toggle_waypoints": "Toggle all Waypoints",
   "key.journeymap.zoom_in": "Hineinzoomen",
-  "key.journeymap.zoom_out": "Herauszoomen"
+  "key.journeymap.zoom_out": "Herauszoomen",
+
+  "modmenu.summaryTranslation.wildfire_genders": "Fügt eine Minimap hinzu, die im Spiel angezeigt wird.",
+  "modmenu.descriptionTranslation.wildfire_genders": "Eine dynamische Minimap, Wegpunkte, Höhlenkarten, Biome, Oberflächenkarten, Radar, und mehr."
 }
