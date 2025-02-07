@@ -122,6 +122,6 @@
 	"wildfire_gender.misc.holiday_themes": "Feiertagseffekte: %s",
 	"wildfire_gender.tooltip.holiday_themes.line1": "Wenn aktiviert, zeigt diese Funktion automatisch Dekorationen wie Weihnachtsmützen und andere festliche Dinge während der jeweiligen Feiertage an.",
 
-	"modmenu.summaryTranslation.wildfire_genders": "Ermöglicht Spielern, das Geschlecht zu wählen, das sie haben möchten.",
-  	"modmenu.descriptionTranslation.wildfire_genders": "Ermöglicht den Spielern, das Geschlecht zu wählen, das sie haben möchten."
+	"modmenu.summaryTranslation.wildfire_gender": "Ermöglicht Spielern, das Geschlecht zu wählen, das sie haben möchten.",
+  	"modmenu.descriptionTranslation.wildfire_gender": "Ermöglicht den Spielern, das Geschlecht zu wählen, das sie haben möchten."
 }
