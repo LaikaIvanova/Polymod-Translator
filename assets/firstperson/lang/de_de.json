@@ -23,6 +23,6 @@
     "text.firstperson.option.firstperson.dynamicMode.tooltip": "Changes the Vanilla Hands view based on the current view",
     "modmenu.summaryTranslation.firstperson": "Aktiviert das Third-Person-Modell in der First-Person-Ansicht.",
     "modmenu.descriptionTranslation.firstperson": "Aktiviert das Third-Person-Modell in der First-Person-Ansicht.",
-    "text.firstperson.option.firstperson.vanillaHandsSkipSwimming": "Disable Vanilla Hands while Swimming",
+    "text.firstperson.option.firstperson.vanillaHandsSkipSwimming": "Deaktiviere Vanilla-Hände beim Schwimmen",
     "text.firstperson.option.firstperson.vanillaHandsSkipSwimming.tooltip": "Disables the Vanilla Hands while swimming(also ignoring the dynamic mode)"
 }
