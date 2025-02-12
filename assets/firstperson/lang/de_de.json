@@ -1,8 +1,8 @@
 {
     "text.firstperson.title": "Einstellungen",
-    "firstperson.keybind": "Firstperson",
-    "key.firstperson.toggle": "Firstperson Umschalten",
-    "category.firstperson.firstperson": "FirstPerson",
+    "firstperson.keybind": "First Person",
+    "key.firstperson.toggle": "First Person Umschalten",
+    "category.firstperson.firstperson": "First Person",
     "text.firstperson.option.firstperson.xOffset": "X-Offset [Stehen]",
     "text.firstperson.option.firstperson.xOffset.tooltip": "Versetzt den Körper relativ zur Kamera während der Spieler steht",
     "text.firstperson.option.firstperson.sneakXOffset": "X-Offset [Schleichen]",
