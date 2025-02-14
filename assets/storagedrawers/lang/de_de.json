@@ -44,7 +44,7 @@
     "config.jade.plugin_storagedrawers.display.stacklimit": "Stapelgrenze",
     "config.jade.plugin_storagedrawers.display.status": "Aufrüstungsanzeige",
 
-    "container.storagedrawers.upgrades": "Aufrüstungen",
+    "container.storagedrawers.upgrades": "Erweiterungen",
     "container.storagedrawers.framing_table": "Rahmentabelle",
 
     "item.storagedrawers.storage_upgrade.desc": "Erweitert das Lager um das %d-fache des Grundwertes",
