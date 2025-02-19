@@ -20,7 +20,7 @@
     "text.firstperson.option.firstperson.vanillaHandMode.ITEMS": "Wenn ein Item gehalten wird",
     "text.firstperson.option.firstperson.vanillaHandMode.tooltip": "Zeigt die Vanilla-Hände an",
     "text.firstperson.option.firstperson.dynamicMode": "Dynamischer Modus",
-    "text.firstperson.option.firstperson.dynamicMode.tooltip": "Changes the Vanilla Hands view based on the current view",
+    "text.firstperson.option.firstperson.dynamicMode.tooltip": "Wechselt dynamisch zwischen First- und Third-Person-Händen, abhängig vom Kamerawinkel",
     "modmenu.summaryTranslation.firstperson": "Aktiviert das Third-Person-Modell in der First-Person-Ansicht.",
     "modmenu.descriptionTranslation.firstperson": "Aktiviert das Third-Person-Modell in der First-Person-Ansicht.",
     "text.firstperson.option.firstperson.vanillaHandsSkipSwimming": "Deaktiviere Vanilla-Hände beim Schwimmen",
