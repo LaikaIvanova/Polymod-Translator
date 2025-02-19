@@ -52,7 +52,7 @@
   "modmenu.configure": "Konfiguriere...",
   "modmenu.configure.error": "Konfigurationsbildschirm für '%s' konnte nicht geladen werden\nBitte bei '%s' melden, nicht bei Mod Menu",
   "modmenu.website": "Webseite",
-  "modmenu.issues": "Fehler",
+  "modmenu.issues": "Probleme",
   
   "modmenu.credits": "Credits:",
   "modmenu.viewCredits": "Zeige Credits",
