@@ -1,5 +1,4 @@
 {
-  "modmenu.descriptionTranslation.chat_heads": "Sichtbare Spielerköpfe im Chat.",
   "text.autoconfig.chat_heads.title": "Chat Heads",
   "text.autoconfig.chat_heads.option.offsetNonPlayerText": "Nicht-Spieler-Nachrichten verschieben",
   "text.autoconfig.chat_heads.option.offsetNonPlayerText.@Tooltip": "Richtet allen Text in eine Reihe aus\nHat nur beim \"Vor der Zeile\"-Rendern einen Effekt",
@@ -25,5 +24,6 @@
   "text.chat_heads.config.error.cloth_config_curseforge_link": "Cloth Config Seite auf CurseForge öffnen",
   "text.chat_heads.config.error.cloth_config_modrinth_link": "Cloth Config Seite auf Modrinth öffnen",
 
-  "modmenu.summaryTranslation.chat_heads": "Fügt sichtbare Spielerköpfe zu Chat-Nachrichten hinzu neben dem Namen des Absenders hinzu."
+  "modmenu.summaryTranslation.chat_heads": "Sichtbare Spielerköpfe im Chat.",
+  "modmenu.descriptionTranslation.chat_heads": "Fügt sichtbare Spielerköpfe zu Chat-Nachrichten hinzu neben dem Namen des Absenders hinzu."
 }
