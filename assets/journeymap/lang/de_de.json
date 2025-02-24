@@ -1,6 +1,6 @@
 {
   "_comment": "## JourneyMap 5.1.1 Resource Bundle - de_DE",
-  "jm.advanced.announcemod": "Mod ankündigen",
+  "jm.advanced.announcemod": "Mod Ankündigungen",
   "jm.advanced.announcemod.tooltip": "Schreibt im Chat-Fenster, ob JourneyMap einsatzfähig ist.",
   "jm.advanced.automappoll": "AutoMap-Poll-Frequenz",
   "jm.advanced.automappoll.tooltip": "Zeit (in Millisekunden), nach der die AutoMap sich aktualisiert. Kleinere Werte haben großen Einfluss auf die Leistung.",
