@@ -20,7 +20,6 @@
   "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay.@Tooltip": "If true, health/hunger overlay will shake to match Minecraft's icon animations",
   "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "Max Alpha von aufleuchtenden HUD-Icons",
   "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip": "Wie sichtbar die aufleuchtenden HUD-Icons sein sollen",
-
   "modmenu.summaryTranslation.appleskin": "Fügt zusätzliche HUD-Elemente für Nahrung hinzu.",
   "modmenu.descriptionTranslation.appleskin": "Fügt zusätzliche HUD-Elemente für Nahrung hinzu, z.B. eine Anzeige für Sättigung."
 }
