@@ -10,5 +10,7 @@
   "durabilitytooltip.info.text.full_durability": "Tadellos",
   "durabilitytooltip.info.text.damaged": "Leicht beschädigt",
   "durabilitytooltip.info.text.severely_damaged": "Schwer beschädigt",
-  "durabilitytooltip.info.text.nearly_broken": "Fast kaputt"
+  "durabilitytooltip.info.text.nearly_broken": "Fast kaputt",
+  "modmenu.summaryTranslation.chat_heads": "Zeigt die Haltbarkeit von Items an.",
+  "modmenu.descriptionTranslation.chat_heads": "Zeigt die Haltbarkeit von Werkzeugen und Rüstungen im Tooltip an."
 }
