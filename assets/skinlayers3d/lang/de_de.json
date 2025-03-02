@@ -35,7 +35,6 @@
     "text.skinlayers.firstperson.voxelsize.tooltip": "Die Größe der Voxels, die für die Hand des Spielers in der First Person verwendet werden",
     "text.skinlayers.compatibilityMode.enable": "Kompatibilitätsmodus",
     "text.skinlayers.compatibilityMode.enable.tooltip": "Alternative Möglichkeit, Skins zu Rendern. Kann unter Umständen Kompatibilitätsprobleme mit anderen Mods beheben",
-
     "modmenu.summaryTranslation.skinlayers": "Ermöglicht 3D-Darstellung von Skins.",
     "modmenu.descriptionTranslation.skinlayers": "Ermöglicht die 3D-Darstellung von Skins und bietet Anpassungsoptionen für Detailstufen und Voxelgrößen."
 }
