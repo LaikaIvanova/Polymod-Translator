@@ -23,7 +23,6 @@
   "text.chat_heads.config.error.no_cloth_config": "Cloth Config is not installed!",
   "text.chat_heads.config.error.cloth_config_curseforge_link": "Open Cloth Config page on CurseForge",
   "text.chat_heads.config.error.cloth_config_modrinth_link": "Open Cloth Config page on Modrinth",
-
   "modmenu.summaryTranslation.chat_heads": "Visible player heads in the chat.",
   "modmenu.descriptionTranslation.chat_heads": "See who are you chatting with!\nThis mod adds player heads next to their chat messages."
 }
