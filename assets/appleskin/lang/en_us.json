@@ -20,7 +20,6 @@
   "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay.@Tooltip": "If true, health/hunger overlay will shake to match Minecraft's icon animations",
   "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "Max alpha of flashing HUD icons",
   "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip": "Alpha value of the flashing icons at their most visible point (1.0 = fully opaque, 0.0 = fully transparent)",
-
   "modmenu.summaryTranslation.appleskin": "Adds various food-related HUD improvements",
   "modmenu.descriptionTranslation.appleskin": "Adds various food-related HUD improvements"
 }
