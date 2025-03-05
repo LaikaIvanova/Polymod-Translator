@@ -23,7 +23,6 @@
   "text.chat_heads.config.error.no_cloth_config": "Cloth Config ist nicht installiert!",
   "text.chat_heads.config.error.cloth_config_curseforge_link": "Cloth Config Seite auf CurseForge öffnen",
   "text.chat_heads.config.error.cloth_config_modrinth_link": "Cloth Config Seite auf Modrinth öffnen",
-
   "modmenu.summaryTranslation.chat_heads": "Sichtbare Spielerköpfe im Chat.",
   "modmenu.descriptionTranslation.chat_heads": "Fügt sichtbare Spielerköpfe zu Chat-Nachrichten hinzu neben dem Namen des Absenders hinzu."
 }
