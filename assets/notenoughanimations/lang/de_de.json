@@ -1,5 +1,5 @@
 ﻿{
-  "text.nea.title": "Not Enough Animations Settings",
+  "text.nea.title": "Not Enough Animations Einstellungen",
   "text.nea.enable.animationsmoothing": "Animation Smoothing",
   "text.nea.enable.animationsmoothing.tooltip": "Smooths out the arm/leg animations to make them look more natural and less jumpy",
   "text.nea.smoothingSpeed": "Smoothing Amount",
@@ -75,7 +75,7 @@
   "text.nea.holdUpTarget": "Hold Up Target",
   "text.nea.holdUpTarget.tooltip": "Changes where the item points at when held up",
   "text.nea.holdUpTarget.NONE": "None",
-  "text.nea.holdUpTarget.CAMERA": "Camera",
+  "text.nea.holdUpTarget.CAMERA": "Kamera",
   "text.nea.holdUpCameraOffset": "Hold Up Camera Offset",
   "text.nea.holdUpCameraOffset.tooltip": "Modify how much the arm is offset to the sides when holding up items in Camera mode",
   "text.nea.enable.holdUpOnlySelf": "Hold Up Only Self",
