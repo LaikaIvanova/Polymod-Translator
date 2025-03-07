@@ -7,7 +7,7 @@
   "sodium.options.pages.quality": "Qualität",
   "sodium.options.pages.performance": "Performance",
   "sodium.options.pages.advanced": "Erweitert",
-  "sodium.options.view_distance.tooltip": "The render distance controls how far away terrain will be rendered. Shorter distances mean that less terrain will be rendered, improving frame rates.",
+  "sodium.options.view_distance.tooltip": "Die Renderdistanz steuert, wie weit entferntes Terrain gerendert wird. Kürzere Distanzen bedeuten, dass weniger Terrain gerendert wird, was die Bildraten verbessert.",
   "sodium.options.simulation_distance.tooltip": "The simulation distance controls how far away terrain and entities will be loaded and ticked. Shorter distances can reduce the internal server's load and may improve frame rates.",
   "sodium.options.brightness.tooltip": "Controls the minimum brightness in the world. When increased, darker areas of the world will appear brighter. This does not affect the brightness of already well-lit areas.",
   "sodium.options.gui_scale.tooltip": "Sets the maximum scale factor to be used for the user interface. If \"auto\" is used, then the largest scale factor will always be used.",
