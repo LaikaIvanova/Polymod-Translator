@@ -1,12 +1,10 @@
 {
   "cloth_config.sound_physics_remastered.settings": "Sound Physics Settings",
-
   "cloth_config.sound_physics_remastered.category.general": "General",
   "cloth_config.sound_physics_remastered.category.performance": "Performance",
   "cloth_config.sound_physics_remastered.category.reflectivity": "Block Reflectivities",
   "cloth_config.sound_physics_remastered.category.occlusion": "Block Occlusion Factors",
   "cloth_config.sound_physics_remastered.category.debug": "Debug",
-
   "cloth_config.sound_physics_remastered.enabled": "Enable Sound Physics",
   "cloth_config.sound_physics_remastered.enabled.description": "Enables/Disables all sound effects.",
   "cloth_config.sound_physics_remastered.simple_voice_chat_integration": "Simple Voice Chat integration",
@@ -39,7 +37,6 @@
   "cloth_config.sound_physics_remastered.evaluate_ambient_sounds.description": "Whether sounds like cave, nether or underwater ambient sounds should have sound physics",
   "cloth_config.sound_physics_remastered.sound_blacklist_regex": "Sound blacklist regex",
   "cloth_config.sound_physics_remastered.sound_blacklist_regex.description": "This regex is applied to all sounds that are getting played. If it matches, the sound doesn't get any effects applied to it.",
-
   "cloth_config.sound_physics_remastered.environment_evaluation_ray_count": "Environment evaluation ray count",
   "cloth_config.sound_physics_remastered.environment_evaluation_ray_count.description": "The number of rays to trace to determine reverberation for each sound source. More rays provides more consistent tracing results but takes more time to calculate. Decrease this value if you experience lag spikes when sounds play.",
   "cloth_config.sound_physics_remastered.environment_evaluation_ray_bounces": "Environment evaluation ray bounces",
@@ -60,7 +57,6 @@
   "cloth_config.sound_physics_remastered.update_moving_sounds.description": "If music discs or other longer sounds should be frequently reevaluated",
   "cloth_config.sound_physics_remastered.sound_update_interval": "Sound update interval",
   "cloth_config.sound_physics_remastered.sound_update_interval.description": "The interval in ticks that moving sounds are reevaluated. Lower values mean more frequent reevaluation but also more lag. This option only takes effect if 'Update moving sounds' is enabled.",
-
   "cloth_config.sound_physics_remastered.debug_logging": "Debug logging",
   "cloth_config.sound_physics_remastered.debug_logging.description": "Enables debug logging.",
   "cloth_config.sound_physics_remastered.occlusion_logging": "Occlusion logging",
@@ -72,5 +68,7 @@
   "cloth_config.sound_physics_remastered.render_sound_bounces": "Render sound bounces",
   "cloth_config.sound_physics_remastered.render_sound_bounces.description": "If enabled, the path of the sound will be rendered in game.",
   "cloth_config.sound_physics_remastered.render_occlusion": "Render occlusion",
-  "cloth_config.sound_physics_remastered.render_occlusion.description": "If enabled, occlusion will be visualized in game."
+  "cloth_config.sound_physics_remastered.render_occlusion.description": "If enabled, occlusion will be visualized in game.",
+  "modmenu.summaryTranslation.sound_physics_remastered": "Enhances Minecraft's sound system with a more realistic approach.",
+  "modmenu.descriptionTranslation.sound_physics_remastered": "Sound Physics Remastered adds realistic sound effects to Minecraft, including reverb, occlusion, and directional sound based on the environment. Customize various settings to optimize performance and achieve the desired audio experience."
 }
