@@ -6,11 +6,11 @@
   "distanthorizons.general.false":
     "Aus",
   "distanthorizons.general.yes":
-    "Yes",
+    "Ja",
   "distanthorizons.general.no":
-    "No",
+    "Nein",
   "distanthorizons.general.back":
-    "Back",
+    "Zurück",
   "distanthorizons.general.next":
     "Next",
   "distanthorizons.general.done":
@@ -66,19 +66,19 @@
   "distanthorizons.config.client.advanced":
     "Erweiterte Einstellungen",
   "distanthorizons.config.client.advanced.graphics":
-    "Graphics",
+    "Grafikeinstellungen",
   "distanthorizons.config.client.advanced.worldGenerator":
-    "World Generator",
+    "Weltgenerator",
   "distanthorizons.config.client.advanced.server":
     "Server",
   "distanthorizons.config.client.advanced.lodBuilding":
-    "LOD Building",
+    "LOD-Generation",
   "distanthorizons.config.client.advanced.multiThreading":
-    "Multi-Threading",
+    "Multithreading",
   "distanthorizons.config.client.advanced.logging":
-    "Logging",
+    "Protokollierung",
   "distanthorizons.config.client.advanced.graphics.quality":
-    "Quality",
+    "Qualität",
   "distanthorizons.config.client.advanced.graphics.quality.lodChunkRenderDistanceRadius":
     "Renderdistanz der LOD Chunks",
   "distanthorizons.config.client.advanced.graphics.quality.lodChunkRenderDistanceRadius.@tooltip":
@@ -342,7 +342,7 @@
   "distanthorizons.config.client.advanced.autoUpdater.updateBranch.@tooltip":
     "Where to download the latest update from. \n\nAuto: Downloads either stable or nightly builds based on the current jar. \nStable: Stable builds from Modrinth. \nNightly: Nightly builds from Gitlab.",
   "distanthorizons.config.client.advanced.multiplayer":
-    "Multiplayer",
+    "Mehrspieler",
   "distanthorizons.config.client.advanced.multiplayer.serverFolderNameMode":
     "Server Folder Mode",
   "distanthorizons.config.client.advanced.multiplayer.serverFolderNameMode.@tooltip":
