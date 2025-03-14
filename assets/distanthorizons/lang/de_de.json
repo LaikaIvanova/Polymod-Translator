@@ -2,9 +2,9 @@
   "distanthorizons.title":
 	"Distant Horizons",
   "distanthorizons.general.true":
-    "True",
+    "An",
   "distanthorizons.general.false":
-    "False",
+    "Aus",
   "distanthorizons.general.yes":
     "Yes",
   "distanthorizons.general.no":
@@ -14,9 +14,9 @@
   "distanthorizons.general.next":
     "Next",
   "distanthorizons.general.done":
-    "Done",
+    "Fertig",
   "distanthorizons.general.cancel":
-    "Cancel",
+    "Abbrechen",
   "distanthorizons.general.reset":
     "Reset",
   "distanthorizons.updater.title":
@@ -40,23 +40,23 @@
   "distanthorizons.updater.waitingForClose":
     "Distant Horizons will finish updating once the game restarts",
   "distanthorizons.config.title":
-    "Distant Horizons config",
+    "Distant Horizons",
   "distanthorizons.config.client":
     "Client",
   "distanthorizons.config.client.quickEnableRendering":
-    "Enable Rendering",
+    "Aktiviere Rendering",
   "distanthorizons.config.client.quickEnableRendering.@tooltip":
     "Determines if Distant Horizons Renders LODs.",
   "distanthorizons.config.client.quickShowWorldGenProgress":
-    "Show LOD Gen/Import Progress",
+    "Zeige LOD Gen/Import Fortschritt",
   "distanthorizons.config.client.quickShowWorldGenProgress.@tooltip":
     "If true then the world gen/importing progress will be displayed on the screen when running.",
   "distanthorizons.config.client.qualityPresetSetting":
-    "Quality Preset",
+    "LOD Chunk Qualität",
   "distanthorizons.config.client.qualityPresetSetting.@tooltip":
     "Modifies a number of graphical settings to quickly change Distant Horizons' rendering quality. \n\nLower this setting if your GPU is at max usage or you are having framerate issues.",
   "distanthorizons.config.client.threadPresetSetting":
-    "CPU Load",
+    "Prozessornutzung",
   "distanthorizons.config.client.threadPresetSetting.@tooltip":
     "Modifies how many threads Distant Horizons' will use. \n\nIncreasing this setting will improve the Distant Generator speed and LOD loading speed, \nbut will also increase CPU/memory usage and may introduce stuttering. \n\nNote: This is a CPU relative setting. \nIt should put an equal amount of strain on a 2 core CPU as a 64 core CPU.",
   "distanthorizons.config.client.optionsButton":
@@ -64,7 +64,7 @@
   "distanthorizons.config.client.optionsButton.@tooltip":
     "Show the config button to the left of the fov button",
   "distanthorizons.config.client.advanced":
-    "Advanced options",
+    "Erweiterte Einstellungen",
   "distanthorizons.config.client.advanced.graphics":
     "Graphics",
   "distanthorizons.config.client.advanced.worldGenerator":
@@ -80,7 +80,7 @@
   "distanthorizons.config.client.advanced.graphics.quality":
     "Quality",
   "distanthorizons.config.client.advanced.graphics.quality.lodChunkRenderDistanceRadius":
-    "LOD Chunk Render Distance Radius",
+    "Renderdistanz der LOD Chunks",
   "distanthorizons.config.client.advanced.graphics.quality.lodChunkRenderDistanceRadius.@tooltip":
     "Distant Horizons' render distance, measured in chunks. \n\nNote: this is a best effort number. \nThe render distance may be above or below this number \ndepending on your other graphic settings.",
   "distanthorizons.config.client.advanced.graphics.quality.horizontalQuality":
@@ -186,7 +186,7 @@
   "distanthorizons.config.client.advanced.graphics.genericRendering.enableBeaconRendering.@tooltip":
     "If true LOD beacon beams will be rendered.",
   "distanthorizons.config.client.advanced.graphics.genericRendering.enableCloudRendering":
-    "Enable Cloud Rendering",
+    "Aktiviere Cloud Rendering",
   "distanthorizons.config.client.advanced.graphics.genericRendering.enableCloudRendering.@tooltip":
     "If true LOD clouds will be rendered.",
   "distanthorizons.config.client.advanced.graphics.genericRendering.enableInstancedRendering":
@@ -482,7 +482,7 @@
   "distanthorizons.config.common.worldGenerator":
     "World Generator",
   "distanthorizons.config.common.worldGenerator.enableDistantGeneration":
-    "Enable Distant Generation",
+    "Aktiviere Distanzgenerierung",
   "distanthorizons.config.common.worldGenerator.enableDistantGeneration.@tooltip":
     "§6True:§r in single player LODs will be created outside the vanilla render distance.\nDepending on the Generator Mode pre-existing chunks will be important and/o\nmissing chunks will be generated.\nNote: this can use a large amount of CPU.\n\n§6False:§r LODs will only generate within the vanilla render distance.",
   "distanthorizons.config.common.worldGenerator.distantGeneratorMode":
@@ -626,27 +626,27 @@
   "distanthorizons.config.enum.EDhApiQualityPreset.CUSTOM":
     "Custom",
   "distanthorizons.config.enum.EDhApiQualityPreset.MINIMUM":
-    "1. Minimum",
+    "Sehr Niedrig",
   "distanthorizons.config.enum.EDhApiQualityPreset.LOW":
-    "2. Low",
+    "Niedrig",
   "distanthorizons.config.enum.EDhApiQualityPreset.MEDIUM":
-    "3. Medium",
+    "Normal",
   "distanthorizons.config.enum.EDhApiQualityPreset.HIGH":
-    "4. High",
+    "Hoch",
   "distanthorizons.config.enum.EDhApiQualityPreset.EXTREME":
-    "5. Extreme",
+    "Sehr Hoch",
   "distanthorizons.config.enum.EDhApiThreadPreset.CUSTOM":
     "Custom",
   "distanthorizons.config.enum.EDhApiThreadPreset.MINIMAL_IMPACT":
-    "1. Minimal Impact",
+    "Sehr Niedrig",
   "distanthorizons.config.enum.EDhApiThreadPreset.LOW_IMPACT":
-    "2. Low Impact",
+    "Niedrig",
   "distanthorizons.config.enum.EDhApiThreadPreset.BALANCED":
-    "3. Balanced",
+    "Normal",
   "distanthorizons.config.enum.EDhApiThreadPreset.AGGRESSIVE":
-    "4. Aggressive",
+    "Hoch",
   "distanthorizons.config.enum.EDhApiThreadPreset.I_PAID_FOR_THE_WHOLE_CPU":
-    "5. I Paid For The Whole CPU",
+    "Sehr Hoch",
   "distanthorizons.config.enum.EDhApiMaxHorizontalResolution.BLOCK":
     "1. Block",
   "distanthorizons.config.enum.EDhApiMaxHorizontalResolution.TWO_BLOCKS":
