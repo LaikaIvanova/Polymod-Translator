@@ -64,5 +64,7 @@
   "sodium.console.core_shaders_warn": "Die folgenden Ressourcenpakete sind möglicherweise mit Sodium nicht kompatibel:",
   "sodium.console.core_shaders_info": "Überprüfen Sie das Spielprotokoll für detaillierte Informationen.",
   "sodium.console.config_not_loaded": "Die Konfigurationsdatei für Sodium ist beschädigt oder derzeit nicht lesbar. Einige Optionen wurden vorübergehend auf ihre Standardwerte zurückgesetzt. Bitte öffnen Sie den Bildschirm für die Videoeinstellungen, um dieses Problem zu beheben.",
-  "sodium.console.config_file_was_reset": "Die Konfigurationsdatei wurde auf bekannte, gute Standardwerte zurückgesetzt."
+  "sodium.console.config_file_was_reset": "Die Konfigurationsdatei wurde auf bekannte, gute Standardwerte zurückgesetzt.",
+  "modmenu.summaryTranslation.sodium": "Sodium verbessert die Leistung von Minecraft.",
+  "modmenu.descriptionTranslation.sodium": "Sodium ist eine Mod, die die Leistung von Minecraft durch verschiedene Optimierungen erheblich steigert. Sie reduziert die Systemlast und verbessert die Bildraten, was zu einem flüssigeren Spielerlebnis führt. Ideal für Spieler, die das Beste aus ihrer Hardware herausholen möchten."
 }
