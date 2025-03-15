@@ -1,21 +1,40 @@
 ﻿{
-  "config.visuality.title": "Visuality Einstellungen",
-  "config.visuality.general": "Allgemein",
-  "config.visuality.option.slime": "Schleim Blobs Aktiviert",
-  "config.visuality.option.slime.color": "Schleim Blobs Farbe",
-  "config.visuality.option.charge": "Ladepartikel Aktiviert",
-  "config.visuality.option.sparkle": "Funkelpartikel Aktiviert",
-  "config.visuality.option.soul": "Seelenpartikel Aktiviert",
-  "config.visuality.option.waterCircle": "Wasserkreise Aktiviert",
-  "config.visuality.option.waterCircle.colored": "Wasserkreise Gefärbt",
-  "config.visuality.option.waterCircle.density": "Wasserkreise Dichte",
-  "config.visuality.option.waterCircle.radius": "Wasserkreise Radius",
-  "config.visuality.option.hitParticles": "Trefferpartikel Aktiviert",
-  "config.visuality.option.hitParticles.entries": "Trefferpartikel Einträge",
-  "config.visuality.option.shinyArmor": "Glänzende Rüstung Aktiviert",
-  "config.visuality.option.shinyArmor.entries": "Glänzende Rüstung Einträge",
-  "config.visuality.option.shinyBlocks": "Glänzende Blöcke Aktiviert",
-  "config.visuality.option.shinyBlocks.entries": "Glänzende Blöcke Einträge",
-  "modmenu.summaryTranslation.visuality": "Bietet visuelle Verbesserungen mit neuen Partikeln.",
-  "modmenu.descriptionTranslation.visuality": "Kleine visuelle Verbesserungen durch Hinzufügen einer Reihe neuer Partikel. Diese Verbesserungen umfassen verschiedene Partikeleffekte wie Schleimblobs, Ladepartikel, Funkelpartikel, Seelenpartikel, Wasserkreise, Trefferpartikel, glänzende Rüstung und glänzende Blöcke, die alle darauf abzielen, das visuelle Erlebnis im Spiel zu bereichern."
+  "config.visuality.title":
+    "Visuality Einstellungen",
+  "config.visuality.general":
+    "Allgemein",
+  "config.visuality.option.slime":
+    "Schleim Blobs Aktiviert",
+  "config.visuality.option.slime.color":
+    "Schleim Blobs Farbe",
+  "config.visuality.option.charge":
+    "Ladepartikel Aktiviert",
+  "config.visuality.option.sparkle":
+    "Funkelpartikel Aktiviert",
+  "config.visuality.option.soul":
+    "Seelenpartikel Aktiviert",
+  "config.visuality.option.waterCircle":
+    "Wasserkreise Aktiviert",
+  "config.visuality.option.waterCircle.colored":
+    "Wasserkreise Gefärbt",
+  "config.visuality.option.waterCircle.density":
+    "Wasserkreise Dichte",
+  "config.visuality.option.waterCircle.radius":
+    "Wasserkreise Radius",
+  "config.visuality.option.hitParticles":
+    "Trefferpartikel Aktiviert",
+  "config.visuality.option.hitParticles.entries":
+    "Trefferpartikel Einträge",
+  "config.visuality.option.shinyArmor":
+    "Glänzende Rüstung Aktiviert",
+  "config.visuality.option.shinyArmor.entries":
+    "Glänzende Rüstung Einträge",
+  "config.visuality.option.shinyBlocks":
+    "Glänzende Blöcke Aktiviert",
+  "config.visuality.option.shinyBlocks.entries":
+    "Glänzende Blöcke Einträge",
+  "modmenu.summaryTranslation.visuality":
+    "Bietet visuelle Verbesserungen mit neuen Partikeln.",
+  "modmenu.descriptionTranslation.visuality":
+    "Kleine visuelle Verbesserungen durch Hinzufügen einer Reihe neuer Partikel. Diese Verbesserungen umfassen verschiedene Partikeleffekte wie Schleimblobs, Ladepartikel, Funkelpartikel, Seelenpartikel, Wasserkreise, Trefferpartikel, glänzende Rüstung und glänzende Blöcke, die alle darauf abzielen, das visuelle Erlebnis im Spiel zu bereichern."
 }
