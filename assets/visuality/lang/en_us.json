@@ -1,21 +1,40 @@
 {
-  "config.visuality.title": "Visuality Config",
-  "config.visuality.general": "General",
-  "config.visuality.option.slime": "Slime Blobs Enabled",
-  "config.visuality.option.slime.color": "Slime Blobs Color",
-  "config.visuality.option.charge": "Charge Particle Enabled",
-  "config.visuality.option.sparkle": "Sparkle Particle Enabled",
-  "config.visuality.option.soul": "Soul Particle Enabled",
-  "config.visuality.option.waterCircle": "Water Circles Enabled",
-  "config.visuality.option.waterCircle.colored": "Water Circles Colored",
-  "config.visuality.option.waterCircle.density": "Water Circles Density",
-  "config.visuality.option.waterCircle.radius": "Water Circles Radius",
-  "config.visuality.option.hitParticles": "Hit Particles Enabled",
-  "config.visuality.option.hitParticles.entries": "Hit Particles Entries",
-  "config.visuality.option.shinyArmor": "Shiny Armor Enabled",
-  "config.visuality.option.shinyArmor.entries": "Shiny Armor Entries",
-  "config.visuality.option.shinyBlocks": "Shiny Blocks Enabled",
-  "config.visuality.option.shinyBlocks.entries": "Shiny Blocks Entries",
-  "modmenu.summaryTranslation.visuality": "Provides visual enhancements with new particles.",
-  "modmenu.descriptionTranslation.visuality": "Little visual improvements by adding a bunch of new particles. These enhancements include various particle effects such as slime blobs, charge particles, sparkle particles, soul particles, water circles, hit particles, shiny armor, and shiny blocks, all aimed at enriching the visual experience in the game."
+  "config.visuality.title":
+    "Visuality Config",
+  "config.visuality.general":
+    "General",
+  "config.visuality.option.slime":
+    "Slime Blobs Enabled",
+  "config.visuality.option.slime.color":
+    "Slime Blobs Color",
+  "config.visuality.option.charge":
+    "Charge Particle Enabled",
+  "config.visuality.option.sparkle":
+    "Sparkle Particle Enabled",
+  "config.visuality.option.soul":
+    "Soul Particle Enabled",
+  "config.visuality.option.waterCircle":
+    "Water Circles Enabled",
+  "config.visuality.option.waterCircle.colored":
+    "Water Circles Colored",
+  "config.visuality.option.waterCircle.density":
+    "Water Circles Density",
+  "config.visuality.option.waterCircle.radius":
+    "Water Circles Radius",
+  "config.visuality.option.hitParticles":
+    "Hit Particles Enabled",
+  "config.visuality.option.hitParticles.entries":
+    "Hit Particles Entries",
+  "config.visuality.option.shinyArmor":
+    "Shiny Armor Enabled",
+  "config.visuality.option.shinyArmor.entries":
+    "Shiny Armor Entries",
+  "config.visuality.option.shinyBlocks":
+    "Shiny Blocks Enabled",
+  "config.visuality.option.shinyBlocks.entries":
+    "Shiny Blocks Entries",
+  "modmenu.summaryTranslation.visuality":
+    "Provides visual enhancements with new particles.",
+  "modmenu.descriptionTranslation.visuality":
+    "Little visual improvements by adding a bunch of new particles. These enhancements include various particle effects such as slime blobs, charge particles, sparkle particles, soul particles, water circles, hit particles, shiny armor, and shiny blocks, all aimed at enriching the visual experience in the game."
 }
