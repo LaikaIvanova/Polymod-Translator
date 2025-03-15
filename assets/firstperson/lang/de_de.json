@@ -1,28 +1,54 @@
 {
-  "text.firstperson.title": "Einstellungen",
-  "firstperson.keybind": "First Person",
-  "key.firstperson.toggle": "First Person Umschalten",
-  "category.firstperson.firstperson": "First Person",
-  "text.firstperson.option.firstperson.xOffset": "X-Offset [Stehen]",
-  "text.firstperson.option.firstperson.xOffset.tooltip": "Versetzt den Körper relativ zur Kamera während der Spieler steht",
-  "text.firstperson.option.firstperson.sneakXOffset": "X-Offset [Schleichen]",
-  "text.firstperson.option.firstperson.sneakXOffset.tooltip": "Versetzt den Körper relativ zur Kamera während der Spieler schleicht",
-  "text.firstperson.option.firstperson.enabledByDefault": "Standardmäßig aktiviert",
-  "text.firstperson.option.firstperson.enabledByDefault.tooltip": "Ob die Mod beim Spielstart aktiviert sein soll",
-  "text.firstperson.option.firstperson.sitXOffset": "X-Offset [Sitzen]",
-  "text.firstperson.option.firstperson.sitXOffset.tooltip": "Versetzt den Körper relativ zur Kamera während der Spieler sitzt",
-  "text.firstperson.option.firstperson.renderStuckFeatures": "Pfeile und Stacheln rendern",
-  "text.firstperson.option.firstperson.renderStuckFeatures.tooltip": "Ob Pfeile und Stacheln gerendert werden sollen",
-  "text.firstperson.option.firstperson.vanillaHandMode": "Vanilla-Hände Modus",
-  "text.firstperson.option.firstperson.vanillaHandMode.OFF": "Aus",
-  "text.firstperson.option.firstperson.vanillaHandMode.ALL": "Immer an",
-  "text.firstperson.option.firstperson.vanillaHandMode.ALL_DOUBLE": "Immer beide Hände zeigen",
-  "text.firstperson.option.firstperson.vanillaHandMode.ITEMS": "Wenn ein Item gehalten wird",
-  "text.firstperson.option.firstperson.vanillaHandMode.tooltip": "Zeigt die Vanilla-Hände an",
-  "text.firstperson.option.firstperson.dynamicMode": "Dynamischer Modus",
-  "text.firstperson.option.firstperson.dynamicMode.tooltip": "Wechselt dynamisch zwischen First- und Third-Person-Händen, abhängig vom Kamerawinkel",
-  "modmenu.summaryTranslation.firstperson": "Aktiviert das Third-Person-Modell in der First-Person-Ansicht.",
-  "modmenu.descriptionTranslation.firstperson": "Aktiviert das Third-Person-Modell in der First-Person-Ansicht.",
-  "text.firstperson.option.firstperson.vanillaHandsSkipSwimming": "Deaktiviere Vanilla-Hände beim Schwimmen",
-  "text.firstperson.option.firstperson.vanillaHandsSkipSwimming.tooltip": "Deaktiviert die Vanilla-Hände beim Schwimmen (ignoriert auch den Dynamic Mode)"
+  "text.firstperson.title":
+    "Einstellungen",
+  "firstperson.keybind":
+    "First Person",
+  "key.firstperson.toggle":
+    "First Person Umschalten",
+  "category.firstperson.firstperson":
+    "First Person",
+  "text.firstperson.option.firstperson.xOffset":
+    "X-Offset [Stehen]",
+  "text.firstperson.option.firstperson.xOffset.tooltip":
+    "Versetzt den Körper relativ zur Kamera während der Spieler steht",
+  "text.firstperson.option.firstperson.sneakXOffset":
+    "X-Offset [Schleichen]",
+  "text.firstperson.option.firstperson.sneakXOffset.tooltip":
+    "Versetzt den Körper relativ zur Kamera während der Spieler schleicht",
+  "text.firstperson.option.firstperson.enabledByDefault":
+    "Standardmäßig aktiviert",
+  "text.firstperson.option.firstperson.enabledByDefault.tooltip":
+    "Ob die Mod beim Spielstart aktiviert sein soll",
+  "text.firstperson.option.firstperson.sitXOffset":
+    "X-Offset [Sitzen]",
+  "text.firstperson.option.firstperson.sitXOffset.tooltip":
+    "Versetzt den Körper relativ zur Kamera während der Spieler sitzt",
+  "text.firstperson.option.firstperson.renderStuckFeatures":
+    "Pfeile und Stacheln rendern",
+  "text.firstperson.option.firstperson.renderStuckFeatures.tooltip":
+    "Ob Pfeile und Stacheln gerendert werden sollen",
+  "text.firstperson.option.firstperson.vanillaHandMode":
+    "Vanilla-Hände Modus",
+  "text.firstperson.option.firstperson.vanillaHandMode.OFF":
+    "Aus",
+  "text.firstperson.option.firstperson.vanillaHandMode.ALL":
+    "Immer an",
+  "text.firstperson.option.firstperson.vanillaHandMode.ALL_DOUBLE":
+    "Immer beide Hände zeigen",
+  "text.firstperson.option.firstperson.vanillaHandMode.ITEMS":
+    "Wenn ein Item gehalten wird",
+  "text.firstperson.option.firstperson.vanillaHandMode.tooltip":
+    "Zeigt die Vanilla-Hände an",
+  "text.firstperson.option.firstperson.dynamicMode":
+    "Dynamischer Modus",
+  "text.firstperson.option.firstperson.dynamicMode.tooltip":
+    "Wechselt dynamisch zwischen First- und Third-Person-Händen, abhängig vom Kamerawinkel",
+  "modmenu.summaryTranslation.firstperson":
+    "Aktiviert das Third-Person-Modell in der First-Person-Ansicht.",
+  "modmenu.descriptionTranslation.firstperson":
+    "Aktiviert das Third-Person-Modell in der First-Person-Ansicht.",
+  "text.firstperson.option.firstperson.vanillaHandsSkipSwimming":
+    "Deaktiviere Vanilla-Hände beim Schwimmen",
+  "text.firstperson.option.firstperson.vanillaHandsSkipSwimming.tooltip":
+    "Deaktiviert die Vanilla-Hände beim Schwimmen (ignoriert auch den Dynamic Mode)"
 }
