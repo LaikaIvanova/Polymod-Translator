@@ -1127,7 +1127,6 @@
   "key.journeymap.toggle_waypoints": "Toggle All Waypoints",
   "key.journeymap.zoom_in": "Zoom In",
   "key.journeymap.zoom_out": "Zoom Out",
-
   "modmenu.summaryTranslation.journeymap": "Adds a minimap that is displayed in-game.",
   "modmenu.descriptionTranslation.journeymap": "A dynamic minimap, waypoints, cave maps, biomes, surface maps, radar, and more."
 }
