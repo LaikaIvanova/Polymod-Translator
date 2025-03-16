@@ -26,7 +26,7 @@
   "debug.reload_languages.switch.failure":
     "Couldn't cycle languages. Switch to another language in the settings and try again",
   "modmenu.summaryTranslation.languagereload":
-    "Reduces load times and adds fallbacks for languages.",
+    "Reduziert Ladezeiten und fügt Fallbacks für Sprachen hinzu.",
   "modmenu.descriptionTranslation.languagereload":
-    "Speeds up language switching, introduces a search box and multi-selection in the language menu, makes item search multilingual, adds debug features to cycle languages with Shift + F3 + J and to reload them with F3 + J."
+    "Beschleunigt das Umschalten der Sprache, führt ein Suchfeld und Mehrfachauswahl im Sprachmenü ein, macht die Artikelsuche mehrsprachig, fügt Debug-Funktionen hinzu, um Sprachen mit Shift + F3 + J zu wechseln und sie mit F3 + J neu zu laden."
 }
