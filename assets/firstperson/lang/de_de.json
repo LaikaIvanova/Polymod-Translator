@@ -43,12 +43,12 @@
     "Dynamischer Modus",
   "text.firstperson.option.firstperson.dynamicMode.tooltip":
     "Wechselt dynamisch zwischen First- und Third-Person-Händen, abhängig vom Kamerawinkel",
-  "modmenu.summaryTranslation.firstperson":
-    "Aktiviert das Third-Person-Modell in der First-Person-Ansicht.",
-  "modmenu.descriptionTranslation.firstperson":
-    "Aktiviert das Third-Person-Modell in der First-Person-Ansicht.",
   "text.firstperson.option.firstperson.vanillaHandsSkipSwimming":
     "Deaktiviere Vanilla-Hände beim Schwimmen",
   "text.firstperson.option.firstperson.vanillaHandsSkipSwimming.tooltip":
-    "Deaktiviert die Vanilla-Hände beim Schwimmen (ignoriert auch den Dynamic Mode)"
+    "Deaktiviert die Vanilla-Hände beim Schwimmen (ignoriert auch den Dynamic Mode)",
+  "modmenu.summaryTranslation.firstperson":
+    "Aktiviert das Third-Person-Modell in der First-Person-Ansicht.",
+  "modmenu.descriptionTranslation.firstperson":
+    "Mit dieser Mod kannst du das Third-Person-Modell in der First-Person-Ansicht sehen."
 }
