@@ -1,100 +1,198 @@
 ﻿{
-  "category.wildfire_gender.generic": "Female Gender Mod",
-  "key.wildfire_gender.gender_menu": "Меню",
-  "key.wildfire_gender.toggle": "Переключить отображение груди",
-  "toast.wildfire_gender.get_started": "Нажмите '%s', чтобы начать!",
-  "wildfire_gender.armor.tooltip": "+1 поддержка груди",
-  "wildfire_gender.player_list.title": "Female Gender Mod",
-  "wildfire_gender.player_list.settings_button": "Настройки",
-  "wildfire_gender.player_list.sync_status": "Статус синхронизации",
-  "wildfire_gender.player_list.state.loading": "Загрузка данных...",
-  "wildfire_gender.player_list.state.synced": "Синхронизированные игроки",
-  "wildfire_gender.player_list.bounce_multiplier": "Множитель прыжка: %sx",
-  "wildfire_gender.player_list.breast_momentum": "Импульс груди: %s%%",
-  "wildfire_gender.player_list.female_sounds": "Женские звуки: %s",
-  "wildfire_gender.wardrobe.players_using_mod": "Игроки с модом:",
-  "wildfire_gender.always_show_list": "Показывать синхронизированных игроков: %s",
-  "wildfire_gender.always_show_list.mod_ui_only": "В этом окне",
-  "wildfire_gender.always_show_list.mod_ui_only.tooltip": "Список синхронизированных игроков будет показан только в этом окне",
-  "wildfire_gender.always_show_list.tab_list_open": "С игровым списком",
-  "wildfire_gender.always_show_list.tab_list_open.tooltip": "Список синхронизированных игроков будет показан, когда вы находитесь в этом окне или когда вы нажимаете %s в игре",
-  "wildfire_gender.always_show_list.always": "Всегда",
-  "wildfire_gender.always_show_list.always.tooltip": "Список синхронизированных игроков будет всегда показан",
-  "wildfire_gender.wardrobe.title": "Мод женского пола от Wildfire",
-  "wildfire_gender.breast_customization.tab_customization": "Настройка",
-  "wildfire_gender.breast_customization.tab_physics": "Физика",
-  "wildfire_gender.breast_customization.tab_miscellaneous": "Разное",
-  "wildfire_gender.breast_customization.presets.add_new": "Новое...",
-  "wildfire_gender.breast_customization.presets.delete": "Удалить",
-  "wildfire_gender.wardrobe.slider.breast_size": "Размер груди: %s%%",
-  "wildfire_gender.wardrobe.slider.separation": "Расстояние: %s",
-  "wildfire_gender.wardrobe.slider.height": "Высота: %s",
-  "wildfire_gender.wardrobe.slider.depth": "Глубина: %s",
-  "wildfire_gender.wardrobe.slider.rotation": "Поворот: %s°",
-  "wildfire_gender.slider.voice_pitch": "Тон голоса: %s%%",
-  "wildfire_gender.appearance_settings.title": "Настройки",
-  "wildfire_gender.char_settings.title": "Настройки персонажа ALT",
-  "wildfire_gender.char_settings.physics": "Физика груди: %s",
-  "wildfire_gender.char_settings.override_armor_physics": "Физика брони: %s",
-  "wildfire_gender.tooltip.override_armor_physics.line1": "Физика груди больше не уменьшается/останавливается броней, если она включена.",
-  "wildfire_gender.tooltip.override_armor_physics.line2": "Это в основном для пакетов ресурсов, которые удаляют или уменьшают броню",
-  "wildfire_gender.char_settings.hide_in_armor": "Броня: %s",
-  "wildfire_gender.char_settings.show_armor_stat": "Статистика брони: %s",
-  "wildfire_gender.char_settings.hurt_sounds": "Женский голос: %s",
-  "wildfire_gender.tooltip.hurt_sounds": "Ваш персонаж издает женские звуки боли, когда получает урон, если ваш пол женский или другой",
-  "wildfire_gender.breast_customization.dual_physics": "Двойная физика: %s",
-  "wildfire_gender.label.gender": "Пол",
-  "wildfire_gender.label.female": "Женский",
-  "wildfire_gender.label.male": "Мужской",
-  "wildfire_gender.label.other": "Другой",
-  "wildfire_gender.label.enabled": "Включено",
-  "wildfire_gender.label.disabled": "Отключено",
-  "wildfire_gender.label.on": "Вкл",
-  "wildfire_gender.label.off": "Выкл",
-  "wildfire_gender.label.yes": "Да",
-  "wildfire_gender.label.no": "Нет",
-  "wildfire_gender.label.with_creator": "Вы играете на сервере с создателем мода!",
-  "wildfire_gender.label.with_contributor": "Вы играете на сервере с одним из поддерживающих мод!",
-  "wildfire_gender.label.with_both": "Вы играете на сервере с создателями мода!",
-  "wildfire_gender.slider.bounce": "Интенсивность: %s%%",
-  "wildfire_gender.slider.floppy": "Импульс: %s%%",
-  "wildfire_gender.cancer_awareness.title": "Эй, это месяц борьбы с раком груди!",
-  "wildfire_gender.first_time_setup.title": "Добро пожаловать в мод женского пола от Wildfire!",
-  "wildfire_gender.first_time_setup.description": "Хотите включить облачную синхронизацию? Это позволит другим игрокам с модом видеть ваши настройки пола.",
-  "wildfire_gender.first_time_setup.notice": "Вы можете изменить это позже в настройках в любое время.",
-  "wildfire_gender.first_time_setup.enable": "Включить облачную синхронизацию",
-  "wildfire_gender.first_time_setup.disable": "Отключить облачную синхронизацию",
-  "wildfire_gender.cloud_settings": "Настройки синхронизации",
-  "wildfire_gender.cloud.tooltip": "Облачная синхронизация",
-  "wildfire_gender.cloud.unavailable.invalid_account": "Облачная синхронизация недоступна, так как вы не вошли в систему с действующей учетной записью Minecraft",
-  "wildfire_gender.cloud.unavailable.offline_server": "Облачная синхронизация недоступна, так как сервер, к которому вы подключены, работает в автономном режиме",
-  "wildfire_gender.cloud.status": "Облачная синхронизация: %s",
-  "wildfire_gender.cloud.automatic": "Автоматическая синхронизация: %s",
-  "wildfire_gender.cloud.automatic.tooltip.line1": "Если включено, ваши настройки будут автоматически синхронизироваться с облаком после каждого изменения.",
-  "wildfire_gender.cloud.automatic.tooltip.line2": "Если отключено, вы все равно можете вручную синхронизировать настройки с помощью кнопки.",
-  "wildfire_gender.cloud.sync": "Синхронизировать сейчас",
-  "wildfire_gender.cloud.syncing": "Синхронизация...",
-  "wildfire_gender.cloud.status_log": "Журнал статуса",
-  "wildfire_gender.cloud.syncing.success": "Синхронизировано",
-  "wildfire_gender.cloud.syncing.fail": "Синхронизация не удалась",
-  "wildfire_gender.sync_log.authenticating": "Проверка учетной записи...",
-  "wildfire_gender.sync_log.authentication_success": "Проверка успешна.",
-  "wildfire_gender.sync_log.authentication_failed": "Проверка не удалась.",
-  "wildfire_gender.sync_log.reauthenticating": "Повторная проверка учетной записи...",
-  "wildfire_gender.sync_log.failed_to_sync_data": "Не удалось синхронизировать данные.",
-  "wildfire_gender.sync_log.sync_to_cloud": "Синхронизация данных с облаком...",
-  "wildfire_gender.sync_log.attempting_sync": "Синхронизация профиля...",
-  "wildfire_gender.sync_log.sync_success": "Синхронизация успешна.",
-  "wildfire_gender.sync_log.sync_too_frequently": "Частота синхронизации ограничена.",
-  "wildfire_gender.sync_log.get_single_profile": "Получение профиля...",
-  "wildfire_gender.sync_log.get_multiple_profiles": "Получение нескольких профилей...",
-  "wildfire_gender.details.next_page": "Следующая страница",
-  "wildfire_gender.details.prev_page": "Предыдущая страница",
-  "wildfire_gender.cloud_details.title": "Информация о сервере облачной синхронизации",
-  "wildfire_gender.nametag.creator": "Создатель мода женского пола",
-  "wildfire_gender.nametag.contributor": "Участник мода женского пола",
-  "wildfire_gender.misc.holiday_themes": "Праздничные эффекты: %s",
-  "wildfire_gender.tooltip.holiday_themes.line1": "Если включено, эта функция автоматически отображает украшения, такие как рождественские шапки и другие праздничные вещи во время соответствующих праздников.",
-  "modmenu.summaryTranslation.wildfire_gender": "Позволяет игрокам выбирать пол, который они хотят.",
-  "modmenu.descriptionTranslation.wildfire_gender": "Позволяет игрокам выбирать пол, который они хотят."
+  "category.wildfire_gender.generic":
+    "Female Gender Mod",
+  "key.wildfire_gender.gender_menu":
+    "Меню",
+  "key.wildfire_gender.toggle":
+    "Переключить отображение груди",
+  "toast.wildfire_gender.get_started":
+    "Нажмите '%s', чтобы начать!",
+  "wildfire_gender.armor.tooltip":
+    "+1 поддержка груди",
+  "wildfire_gender.player_list.title":
+    "Female Gender Mod",
+  "wildfire_gender.player_list.settings_button":
+    "Настройки",
+  "wildfire_gender.player_list.sync_status":
+    "Статус синхронизации",
+  "wildfire_gender.player_list.state.loading":
+    "Загрузка данных...",
+  "wildfire_gender.player_list.state.synced":
+    "Синхронизированные игроки",
+  "wildfire_gender.player_list.bounce_multiplier":
+    "Множитель прыжка: %sx",
+  "wildfire_gender.player_list.breast_momentum":
+    "Импульс груди: %s%%",
+  "wildfire_gender.player_list.female_sounds":
+    "Женские звуки: %s",
+  "wildfire_gender.wardrobe.players_using_mod":
+    "Игроки с модом:",
+  "wildfire_gender.always_show_list":
+    "Показывать синхронизированных игроков: %s",
+  "wildfire_gender.always_show_list.mod_ui_only":
+    "В этом окне",
+  "wildfire_gender.always_show_list.mod_ui_only.tooltip":
+    "Список синхронизированных игроков будет показан только в этом окне",
+  "wildfire_gender.always_show_list.tab_list_open":
+    "С игровым списком",
+  "wildfire_gender.always_show_list.tab_list_open.tooltip":
+    "Список синхронизированных игроков будет показан, когда вы находитесь в этом окне или когда вы нажимаете %s в игре",
+  "wildfire_gender.always_show_list.always":
+    "Всегда",
+  "wildfire_gender.always_show_list.always.tooltip":
+    "Список синхронизированных игроков будет всегда показан",
+  "wildfire_gender.wardrobe.title":
+    "Мод женского пола от Wildfire",
+  "wildfire_gender.breast_customization.tab_customization":
+    "Настройка",
+  "wildfire_gender.breast_customization.tab_physics":
+    "Физика",
+  "wildfire_gender.breast_customization.tab_miscellaneous":
+    "Разное",
+  "wildfire_gender.breast_customization.presets.add_new":
+    "Новое...",
+  "wildfire_gender.breast_customization.presets.delete":
+    "Удалить",
+  "wildfire_gender.wardrobe.slider.breast_size":
+    "Размер груди: %s%%",
+  "wildfire_gender.wardrobe.slider.separation":
+    "Расстояние: %s",
+  "wildfire_gender.wardrobe.slider.height":
+    "Высота: %s",
+  "wildfire_gender.wardrobe.slider.depth":
+    "Глубина: %s",
+  "wildfire_gender.wardrobe.slider.rotation":
+    "Поворот: %s°",
+  "wildfire_gender.slider.voice_pitch":
+    "Тон голоса: %s%%",
+  "wildfire_gender.appearance_settings.title":
+    "Настройки",
+  "wildfire_gender.char_settings.title":
+    "Настройки персонажа ALT",
+  "wildfire_gender.char_settings.physics":
+    "Физика груди: %s",
+  "wildfire_gender.char_settings.override_armor_physics":
+    "Физика брони: %s",
+  "wildfire_gender.tooltip.override_armor_physics.line1":
+    "Физика груди больше не уменьшается/останавливается броней, если она включена.",
+  "wildfire_gender.tooltip.override_armor_physics.line2":
+    "Это в основном для пакетов ресурсов, которые удаляют или уменьшают броню",
+  "wildfire_gender.char_settings.hide_in_armor":
+    "Броня: %s",
+  "wildfire_gender.char_settings.show_armor_stat":
+    "Статистика брони: %s",
+  "wildfire_gender.char_settings.hurt_sounds":
+    "Женский голос: %s",
+  "wildfire_gender.tooltip.hurt_sounds":
+    "Ваш персонаж издает женские звуки боли, когда получает урон, если ваш пол женский или другой",
+  "wildfire_gender.breast_customization.dual_physics":
+    "Двойная физика: %s",
+  "wildfire_gender.label.gender":
+    "Пол",
+  "wildfire_gender.label.female":
+    "Женский",
+  "wildfire_gender.label.male":
+    "Мужской",
+  "wildfire_gender.label.other":
+    "Другой",
+  "wildfire_gender.label.enabled":
+    "Включено",
+  "wildfire_gender.label.disabled":
+    "Отключено",
+  "wildfire_gender.label.on":
+    "Вкл",
+  "wildfire_gender.label.off":
+    "Выкл",
+  "wildfire_gender.label.yes":
+    "Да",
+  "wildfire_gender.label.no":
+    "Нет",
+  "wildfire_gender.label.with_creator":
+    "Вы играете на сервере с создателем мода!",
+  "wildfire_gender.label.with_contributor":
+    "Вы играете на сервере с одним из поддерживающих мод!",
+  "wildfire_gender.label.with_both":
+    "Вы играете на сервере с создателями мода!",
+  "wildfire_gender.slider.bounce":
+    "Интенсивность: %s%%",
+  "wildfire_gender.slider.floppy":
+    "Импульс: %s%%",
+  "wildfire_gender.cancer_awareness.title":
+    "Эй, это месяц борьбы с раком груди!",
+  "wildfire_gender.first_time_setup.title":
+    "Добро пожаловать в мод женского пола от Wildfire!",
+  "wildfire_gender.first_time_setup.description":
+    "Хотите включить облачную синхронизацию? Это позволит другим игрокам с модом видеть ваши настройки пола.",
+  "wildfire_gender.first_time_setup.notice":
+    "Вы можете изменить это позже в настройках в любое время.",
+  "wildfire_gender.first_time_setup.enable":
+    "Включить облачную синхронизацию",
+  "wildfire_gender.first_time_setup.disable":
+    "Отключить облачную синхронизацию",
+  "wildfire_gender.cloud_settings":
+    "Настройки синхронизации",
+  "wildfire_gender.cloud.tooltip":
+    "Облачная синхронизация",
+  "wildfire_gender.cloud.unavailable.invalid_account":
+    "Облачная синхронизация недоступна, так как вы не вошли в систему с действующей учетной записью Minecraft",
+  "wildfire_gender.cloud.unavailable.offline_server":
+    "Облачная синхронизация недоступна, так как сервер, к которому вы подключены, работает в автономном режиме",
+  "wildfire_gender.cloud.status":
+    "Облачная синхронизация: %s",
+  "wildfire_gender.cloud.automatic":
+    "Автоматическая синхронизация: %s",
+  "wildfire_gender.cloud.automatic.tooltip.line1":
+    "Если включено, ваши настройки будут автоматически синхронизироваться с облаком после каждого изменения.",
+  "wildfire_gender.cloud.automatic.tooltip.line2":
+    "Если отключено, вы все равно можете вручную синхронизировать настройки с помощью кнопки.",
+  "wildfire_gender.cloud.sync":
+    "Синхронизировать сейчас",
+  "wildfire_gender.cloud.syncing":
+    "Синхронизация...",
+  "wildfire_gender.cloud.status_log":
+    "Журнал статуса",
+  "wildfire_gender.cloud.syncing.success":
+    "Синхронизировано",
+  "wildfire_gender.cloud.syncing.fail":
+    "Синхронизация не удалась",
+  "wildfire_gender.sync_log.authenticating":
+    "Проверка учетной записи...",
+  "wildfire_gender.sync_log.authentication_success":
+    "Проверка успешна.",
+  "wildfire_gender.sync_log.authentication_failed":
+    "Проверка не удалась.",
+  "wildfire_gender.sync_log.reauthenticating":
+    "Повторная проверка учетной записи...",
+  "wildfire_gender.sync_log.failed_to_sync_data":
+    "Не удалось синхронизировать данные.",
+  "wildfire_gender.sync_log.sync_to_cloud":
+    "Синхронизация данных с облаком...",
+  "wildfire_gender.sync_log.attempting_sync":
+    "Синхронизация профиля...",
+  "wildfire_gender.sync_log.sync_success":
+    "Синхронизация успешна.",
+  "wildfire_gender.sync_log.sync_too_frequently":
+    "Частота синхронизации ограничена.",
+  "wildfire_gender.sync_log.get_single_profile":
+    "Получение профиля...",
+  "wildfire_gender.sync_log.get_multiple_profiles":
+    "Получение нескольких профилей...",
+  "wildfire_gender.details.next_page":
+    "Следующая страница",
+  "wildfire_gender.details.prev_page":
+    "Предыдущая страница",
+  "wildfire_gender.cloud_details.title":
+    "Информация о сервере облачной синхронизации",
+  "wildfire_gender.nametag.creator":
+    "Создатель мода женского пола",
+  "wildfire_gender.nametag.contributor":
+    "Участник мода женского пола",
+  "wildfire_gender.misc.holiday_themes":
+    "Праздничные эффекты: %s",
+  "wildfire_gender.tooltip.holiday_themes.line1":
+    "Если включено, эта функция автоматически отображает украшения, такие как рождественские шапки и другие праздничные вещи во время соответствующих праздников.",
+  "modmenu.summaryTranslation.wildfire_gender":
+    "Настройте своего персонажа с грудью!",
+  "modmenu.descriptionTranslation.wildfire_gender":
+    "Позволяет игрокам выбирать пол, который они хотят."
 }
