@@ -1,77 +1,152 @@
 ﻿{
-  "iris.shaders.reloaded": "Шейдеры перезагружены!",
-  "iris.shaders.disabled": "Шейдеры отключены!",
-  "iris.shaders.toggled": "Шейдеры переключены на %s!",
-  "iris.shaders.debug.enabled": "Отладка включена, отладочные логи будут более подробными!",
-  "iris.shaders.debug.disabled": "Отладка отключена.",
-  "iris.shaders.debug.failure": "Не удается включить отладку клиента, ваш компьютер не поддерживает отладочные функции. Отладка шейдеров включена.",
-  "iris.shaders.debug.restart": "У вас нет отладочного контекста, перезапустите, чтобы включить отладку клиента OpenGL.",
-  "iris.shaders.debug.restartNoDebug": "Отладка шейдеров включена; отладка OpenGL не поддерживается на NeoForge.",
-  "iris.load.failure.shader": "Не удалось загрузить шейдерпак! Пожалуйста, сообщите об ошибке разработчику шейдера.",
-  "iris.load.failure.generic": "Iris столкнулся с проблемой при попытке загрузить шейдер; пожалуйста, сообщите об этом разработчикам Iris.",
-  "iris.shaders.ssbofailure": "Шейдер запросил конкретную функцию (SSBO), которая не поддерживается вашим GPU, это может работать некорректно.",
-  "iris.keybind.reload": "Перезагрузить шейдеры",
-  "iris.keybind.shaderPackSelection": "Экран выбора шейдерпака",
-  "iris.keybind.wireframe": "Каркас (только SP)",
-  "iris.keybind.toggleShaders": "Переключить шейдеры",
-  "iris.keybinds": "Iris",
-  "iris.shaders.reloaded.failure": "Не удалось перезагрузить шейдеры! Причина: %s",
-  "iris.shaders.toggled.failure": "Не удалось переключить шейдеры! Причина: %s",
-  "iris.sodium.failure.title": "Не удалось загрузить Iris!",
-  "iris.sodium.failure.download": "Скачать Sodium",
-  "iris.sodium.failure.reason.notFound": "Iris требует Sodium для хорошей производительности, но Sodium не установлен. Пожалуйста, скачайте Sodium, поместите его в папку mods и перезапустите игру.",
-  "iris.sodium.failure.reason.incompatible": "Iris требует Sodium для хорошей производительности, но найдена несовместимая версия. Пожалуйста, скачайте правильную версию Sodium, поместите ее в папку mods, удалите неправильную версию и перезапустите игру.",
-  "iris.nec.failure.title": "[%s] Обнаружено Not Enough Crashes!",
-  "iris.nec.failure.description": "Not Enough Crashes может сильно нарушить игру при обработке сбоев и не предоставляет точных результатов.\nХорошей альтернативой является MixinTrace, который может более надежно определить причину сбоя и не приводит игру в недопустимое состояние.",
-  "iris.unsupported.irisorpc": "Iris или ваш ПК",
-  "iris.unsupported.iris": "Iris",
-  "iris.unsupported.pc": "ваш ПК",
-  "iris.unsupported.pack": "Шейдерпак несовместим!",
-  "iris.unsupported.pack.description": "Шейдерпак, который вы пытаетесь загрузить, содержит функции, не поддерживаемые %s. Пожалуйста, попробуйте другой пак. Список %s",
-  "iris.unsupported.pack.macos": "\nИзвестно, что macOS имеет проблемы с многими шейдерпаками.",
-  "options.iris.apply": "Применить",
-  "options.iris.refresh": "Обновить",
-  "options.iris.openShaderPackFolder": "Открыть папку шейдерпаков...",
-  "options.iris.shaderPackSettings": "Настройки шейдерпака...",
-  "options.iris.shaderPackList": "Список шейдерпаков...",
-  "options.iris.refreshShaderPacks": "Обновить шейдерпаки",
-  "options.iris.shaderPackSelection": "Шейдерпаки...",
-  "options.iris.shaderPackSelection.title": "Шейдерпаки",
-  "options.iris.shaderPackSelection.addedPack": "Добавлен шейдерпак \"%s\"",
-  "options.iris.shaderPackSelection.addedPacks": "Добавлено %s шейдерпаков",
-  "options.iris.shaderPackSelection.failedAdd": "Файлы не являются допустимыми шейдерпаками",
-  "options.iris.shaderPackSelection.failedAddSingle": "\"%s\" не является допустимым шейдерпаком",
-  "options.iris.shaderPackSelection.copyError": "Не удалось добавить шейдерпак \"%s\"",
-  "options.iris.shaderPackSelection.copyErrorAlreadyExists": "\"%s\" уже находится в вашей папке шейдерпаков!",
-  "options.iris.shaderPackOptions.tooManyFiles": "Невозможно импортировать несколько файлов настроек шейдеров!",
-  "options.iris.shaderPackOptions.failedImport": "Не удалось импортировать файл настроек шейдеров \"%s\"",
-  "options.iris.shaderPackOptions.importedSettings": "Импортированы настройки шейдеров из \"%s\"",
-  "options.iris.shaders.disabled": "Шейдеры: Отключены",
-  "options.iris.shaders.enabled": "Шейдеры: Включены",
-  "options.iris.shaders.nonePresent": "Шейдеры: Паков нет",
-  "options.iris.back": "Назад",
-  "options.iris.reset": "Сброс",
-  "options.iris.reset.tooltip": "Сбросить ВСЕ параметры и применить?",
-  "options.iris.reset.tooltip.holdShift": "Удерживайте SHIFT и нажмите, чтобы сбросить",
-  "options.iris.importSettings.tooltip": "Импортировать настройки из файла",
-  "options.iris.exportSettings.tooltip": "Экспортировать примененные настройки в файл",
-  "options.iris.mustDisableFullscreen": "Пожалуйста, сначала отключите полноэкранный режим!",
-  "options.iris.setToDefault": "Установить параметр по умолчанию?",
-  "options.iris.profile": "Профиль",
-  "options.iris.profile.custom": "Пользовательский",
-  "options.iris.shadowDistance": "Максимальная дистанция теней",
-  "options.iris.shadowDistance.enabled": "Позволяет изменить максимальную дистанцию для теней. Рельеф и объекты за этой дистанцией не будут отбрасывать тени. Уменьшение дистанции теней может значительно повысить производительность.",
-  "options.iris.shadowDistance.disabled": "Ваш текущий шейдерпак уже установил дистанцию рендеринга теней; вы не можете ее изменить.",
-  "options.iris.shadowDistance.sodium_tooltip": "Дистанция рендеринга теней контролирует, насколько далеко рельеф может быть потенциально отрендерен в теневом проходе. Меньшие дистанции означают, что будет отрендерено меньше рельефа, улучшая частоту кадров. Этот параметр нельзя изменить на паках, которые явно указывают дистанцию рендеринга теней. Фактическая дистанция рендеринга теней ограничена настройкой дистанции обзора.",
-  "options.iris.colorSpace": "Цветовое пространство",
-  "options.iris.colorSpace.sodium_tooltip": "Цветовое пространство для преобразования экрана. Работает поверх шейдерпаков. Используйте SRGB, если не уверены.",
-  "options.iris.gui.hide": "Скрыть GUI",
-  "options.iris.gui.show": "Показать GUI",
-  "pack.iris.select.title": "Выбрать",
-  "pack.iris.configure.title": "Настроить",
-  "pack.iris.list.label": "+ Перетащите шейдерпаки для добавления",
-  "label.iris.true": "Вкл",
-  "label.iris.false": "Выкл",
-  "modmenu.summaryTranslation.iris": "Обеспечивает управление шейдерпаками и настройками.",
-  "modmenu.descriptionTranslation.iris": "Iris - это мод для Minecraft, который улучшает графику игры, добавляя поддержку шейдеров."
+  "iris.shaders.reloaded":
+    "Шейдеры перезагружены!",
+  "iris.shaders.disabled":
+    "Шейдеры отключены!",
+  "iris.shaders.toggled":
+    "Шейдеры переключены на %s!",
+  "iris.shaders.debug.enabled":
+    "Отладка включена, отладочные логи будут более подробными!",
+  "iris.shaders.debug.disabled":
+    "Отладка отключена.",
+  "iris.shaders.debug.failure":
+    "Не удается включить отладку клиента, ваш компьютер не поддерживает отладочные функции. Отладка шейдеров включена.",
+  "iris.shaders.debug.restart":
+    "У вас нет отладочного контекста, перезапустите, чтобы включить отладку клиента OpenGL.",
+  "iris.shaders.debug.restartNoDebug":
+    "Отладка шейдеров включена; отладка OpenGL не поддерживается на NeoForge.",
+  "iris.load.failure.shader":
+    "Не удалось загрузить шейдерпак! Пожалуйста, сообщите об ошибке разработчику шейдера.",
+  "iris.load.failure.generic":
+    "Iris столкнулся с проблемой при попытке загрузить шейдер; пожалуйста, сообщите об этом разработчикам Iris.",
+  "iris.shaders.ssbofailure":
+    "Шейдер запросил конкретную функцию (SSBO), которая не поддерживается вашим GPU, это может работать некорректно.",
+  "iris.keybind.reload":
+    "Перезагрузить шейдеры",
+  "iris.keybind.shaderPackSelection":
+    "Экран выбора шейдерпака",
+  "iris.keybind.wireframe":
+    "Каркас (только SP)",
+  "iris.keybind.toggleShaders":
+    "Переключить шейдеры",
+  "iris.keybinds":
+    "Iris",
+  "iris.shaders.reloaded.failure":
+    "Не удалось перезагрузить шейдеры! Причина: %s",
+  "iris.shaders.toggled.failure":
+    "Не удалось переключить шейдеры! Причина: %s",
+  "iris.sodium.failure.title":
+    "Не удалось загрузить Iris!",
+  "iris.sodium.failure.download":
+    "Скачать Sodium",
+  "iris.sodium.failure.reason.notFound":
+    "Iris требует Sodium для хорошей производительности, но Sodium не установлен. Пожалуйста, скачайте Sodium, поместите его в папку mods и перезапустите игру.",
+  "iris.sodium.failure.reason.incompatible":
+    "Iris требует Sodium для хорошей производительности, но найдена несовместимая версия. Пожалуйста, скачайте правильную версию Sodium, поместите ее в папку mods, удалите неправильную версию и перезапустите игру.",
+  "iris.nec.failure.title":
+    "[%s] Обнаружено Not Enough Crashes!",
+  "iris.nec.failure.description":
+    "Not Enough Crashes может сильно нарушить игру при обработке сбоев и не предоставляет точных результатов.\nХорошей альтернативой является MixinTrace, который может более надежно определить причину сбоя и не приводит игру в недопустимое состояние.",
+  "iris.unsupported.irisorpc":
+    "Iris или ваш ПК",
+  "iris.unsupported.iris":
+    "Iris",
+  "iris.unsupported.pc":
+    "ваш ПК",
+  "iris.unsupported.pack":
+    "Шейдерпак несовместим!",
+  "iris.unsupported.pack.description":
+    "Шейдерпак, который вы пытаетесь загрузить, содержит функции, не поддерживаемые %s. Пожалуйста, попробуйте другой пак. Список %s",
+  "iris.unsupported.pack.macos":
+    "\nИзвестно, что macOS имеет проблемы с многими шейдерпаками.",
+  "options.iris.apply":
+    "Применить",
+  "options.iris.refresh":
+    "Обновить",
+  "options.iris.openShaderPackFolder":
+    "Открыть папку шейдерпаков...",
+  "options.iris.shaderPackSettings":
+    "Настройки шейдерпака...",
+  "options.iris.shaderPackList":
+    "Список шейдерпаков...",
+  "options.iris.refreshShaderPacks":
+    "Обновить шейдерпаки",
+  "options.iris.shaderPackSelection":
+    "Шейдерпаки...",
+  "options.iris.shaderPackSelection.title":
+    "Шейдерпаки",
+  "options.iris.shaderPackSelection.addedPack":
+    "Добавлен шейдерпак \"%s\"",
+  "options.iris.shaderPackSelection.addedPacks":
+    "Добавлено %s шейдерпаков",
+  "options.iris.shaderPackSelection.failedAdd":
+    "Файлы не являются допустимыми шейдерпаками",
+  "options.iris.shaderPackSelection.failedAddSingle":
+    "\"%s\" не является допустимым шейдерпаком",
+  "options.iris.shaderPackSelection.copyError":
+    "Не удалось добавить шейдерпак \"%s\"",
+  "options.iris.shaderPackSelection.copyErrorAlreadyExists":
+    "\"%s\" уже находится в вашей папке шейдерпаков!",
+  "options.iris.shaderPackOptions.tooManyFiles":
+    "Невозможно импортировать несколько файлов настроек шейдеров!",
+  "options.iris.shaderPackOptions.failedImport":
+    "Не удалось импортировать файл настроек шейдеров \"%s\"",
+  "options.iris.shaderPackOptions.importedSettings":
+    "Импортированы настройки шейдеров из \"%s\"",
+  "options.iris.shaders.disabled":
+    "Шейдеры: Отключены",
+  "options.iris.shaders.enabled":
+    "Шейдеры: Включены",
+  "options.iris.shaders.nonePresent":
+    "Шейдеры: Паков нет",
+  "options.iris.back":
+    "Назад",
+  "options.iris.reset":
+    "Сброс",
+  "options.iris.reset.tooltip":
+    "Сбросить ВСЕ параметры и применить?",
+  "options.iris.reset.tooltip.holdShift":
+    "Удерживайте SHIFT и нажмите, чтобы сбросить",
+  "options.iris.importSettings.tooltip":
+    "Импортировать настройки из файла",
+  "options.iris.exportSettings.tooltip":
+    "Экспортировать примененные настройки в файл",
+  "options.iris.mustDisableFullscreen":
+    "Пожалуйста, сначала отключите полноэкранный режим!",
+  "options.iris.setToDefault":
+    "Установить параметр по умолчанию?",
+  "options.iris.profile":
+    "Профиль",
+  "options.iris.profile.custom":
+    "Пользовательский",
+  "options.iris.shadowDistance":
+    "Максимальная дистанция теней",
+  "options.iris.shadowDistance.enabled":
+    "Позволяет изменить максимальную дистанцию для теней. Рельеф и объекты за этой дистанцией не будут отбрасывать тени. Уменьшение дистанции теней может значительно повысить производительность.",
+  "options.iris.shadowDistance.disabled":
+    "Ваш текущий шейдерпак уже установил дистанцию рендеринга теней; вы не можете ее изменить.",
+  "options.iris.shadowDistance.sodium_tooltip":
+    "Дистанция рендеринга теней контролирует, насколько далеко рельеф может быть потенциально отрендерен в теневом проходе. Меньшие дистанции означают, что будет отрендерено меньше рельефа, улучшая частоту кадров. Этот параметр нельзя изменить на паках, которые явно указывают дистанцию рендеринга теней. Фактическая дистанция рендеринга теней ограничена настройкой дистанции обзора.",
+  "options.iris.colorSpace":
+    "Цветовое пространство",
+  "options.iris.colorSpace.sodium_tooltip":
+    "Цветовое пространство для преобразования экрана. Работает поверх шейдерпаков. Используйте SRGB, если не уверены.",
+  "options.iris.gui.hide":
+    "Скрыть GUI",
+  "options.iris.gui.show":
+    "Показать GUI",
+  "pack.iris.select.title":
+    "Выбрать",
+  "pack.iris.configure.title":
+    "Настроить",
+  "pack.iris.list.label":
+    "+ Перетащите шейдерпаки для добавления",
+  "label.iris.true":
+    "Вкл",
+  "label.iris.false":
+    "Выкл",
+  "modmenu.summaryTranslation.iris":
+    "Обеспечивает управление шейдерпаками и настройками.",
+  "modmenu.descriptionTranslation.iris":
+    "Iris - это мод для Minecraft, который улучшает графику игры, добавляя поддержку шейдеров."
 }
