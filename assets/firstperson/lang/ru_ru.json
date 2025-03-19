@@ -1,28 +1,54 @@
 ﻿{
-  "text.firstperson.title": "Настройки",
-  "firstperson.keybind": "First Person",
-  "key.firstperson.toggle": "Переключить от первого лица",
-  "category.firstperson.firstperson": "First Person",
-  "text.firstperson.option.firstperson.xOffset": "Смещение по X [Стоя]",
-  "text.firstperson.option.firstperson.xOffset.tooltip": "Смещает тело относительно камеры, когда игрок стоит",
-  "text.firstperson.option.firstperson.sneakXOffset": "Смещение по X [Красться]",
-  "text.firstperson.option.firstperson.sneakXOffset.tooltip": "Смещает тело относительно камеры, когда игрок крадется",
-  "text.firstperson.option.firstperson.enabledByDefault": "Включено по умолчанию",
-  "text.firstperson.option.firstperson.enabledByDefault.tooltip": "Включать ли мод при запуске игры",
-  "text.firstperson.option.firstperson.sitXOffset": "Смещение по X [Сидеть]",
-  "text.firstperson.option.firstperson.sitXOffset.tooltip": "Смещает тело относительно камеры, когда игрок сидит",
-  "text.firstperson.option.firstperson.renderStuckFeatures": "Отображать стрелы и шипы",
-  "text.firstperson.option.firstperson.renderStuckFeatures.tooltip": "Отображать ли стрелы и шипы",
-  "text.firstperson.option.firstperson.vanillaHandMode": "Режим рук Vanilla",
-  "text.firstperson.option.firstperson.vanillaHandMode.OFF": "Выключено",
-  "text.firstperson.option.firstperson.vanillaHandMode.ALL": "Всегда включено",
-  "text.firstperson.option.firstperson.vanillaHandMode.ALL_DOUBLE": "Всегда показывать обе руки",
-  "text.firstperson.option.firstperson.vanillaHandMode.ITEMS": "Когда держится предмет",
-  "text.firstperson.option.firstperson.vanillaHandMode.tooltip": "Отображать руки Vanilla",
-  "text.firstperson.option.firstperson.dynamicMode": "Динамический режим",
-  "text.firstperson.option.firstperson.dynamicMode.tooltip": "Динамически переключается между руками от первого и третьего лица в зависимости от угла камеры",
-  "modmenu.summaryTranslation.firstperson": "Включает модель от третьего лица в виде от первого лица.",
-  "modmenu.descriptionTranslation.firstperson": "Включает модель от третьего лица в виде от первого лица.",
-  "text.firstperson.option.firstperson.vanillaHandsSkipSwimming": "Отключить руки Vanilla при плавании",
-  "text.firstperson.option.firstperson.vanillaHandsSkipSwimming.tooltip": "Отключает руки Vanilla при плавании (также игнорирует динамический режим)"
+  "text.firstperson.title":
+    "Настройки",
+  "firstperson.keybind":
+    "First Person",
+  "key.firstperson.toggle":
+    "Переключить от первого лица",
+  "category.firstperson.firstperson":
+    "First Person",
+  "text.firstperson.option.firstperson.xOffset":
+    "Смещение по X [Стоя]",
+  "text.firstperson.option.firstperson.xOffset.tooltip":
+    "Смещает тело относительно камеры, когда игрок стоит",
+  "text.firstperson.option.firstperson.sneakXOffset":
+    "Смещение по X [Красться]",
+  "text.firstperson.option.firstperson.sneakXOffset.tooltip":
+    "Смещает тело относительно камеры, когда игрок крадется",
+  "text.firstperson.option.firstperson.enabledByDefault":
+    "Включено по умолчанию",
+  "text.firstperson.option.firstperson.enabledByDefault.tooltip":
+    "Включать ли мод при запуске игры",
+  "text.firstperson.option.firstperson.sitXOffset":
+    "Смещение по X [Сидеть]",
+  "text.firstperson.option.firstperson.sitXOffset.tooltip":
+    "Смещает тело относительно камеры, когда игрок сидит",
+  "text.firstperson.option.firstperson.renderStuckFeatures":
+    "Отображать стрелы и шипы",
+  "text.firstperson.option.firstperson.renderStuckFeatures.tooltip":
+    "Отображать ли стрелы и шипы",
+  "text.firstperson.option.firstperson.vanillaHandMode":
+    "Режим рук Vanilla",
+  "text.firstperson.option.firstperson.vanillaHandMode.OFF":
+    "Выключено",
+  "text.firstperson.option.firstperson.vanillaHandMode.ALL":
+    "Всегда включено",
+  "text.firstperson.option.firstperson.vanillaHandMode.ALL_DOUBLE":
+    "Всегда показывать обе руки",
+  "text.firstperson.option.firstperson.vanillaHandMode.ITEMS":
+    "Когда держится предмет",
+  "text.firstperson.option.firstperson.vanillaHandMode.tooltip":
+    "Отображать руки Vanilla",
+  "text.firstperson.option.firstperson.dynamicMode":
+    "Динамический режим",
+  "text.firstperson.option.firstperson.dynamicMode.tooltip":
+    "Динамически переключается между руками от первого и третьего лица в зависимости от угла камеры",
+  "text.firstperson.option.firstperson.vanillaHandsSkipSwimming":
+    "Отключить руки Vanilla при плавании",
+  "text.firstperson.option.firstperson.vanillaHandsSkipSwimming.tooltip":
+    "Отключает руки Vanilla при плавании (также игнорирует динамический режим)",
+  "modmenu.summaryTranslation.firstperson":
+    "Включает модель от третьего лица в виде от первого лица.",
+  "modmenu.descriptionTranslation.firstperson":
+    "Включает модель от третьего лица в виде от первого лица."
 }
