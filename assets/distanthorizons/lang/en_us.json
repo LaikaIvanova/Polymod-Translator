@@ -876,5 +876,9 @@
   "distanthorizons.config.enum.EDhApiGrassSideRendering.FADE_TO_DIRT":
     "Fade To Dirt",
   "distanthorizons.config.enum.EDhApiGrassSideRendering.AS_DIRT":
-    "As Dirt"
+    "As Dirt",
+  "modmenu.summaryTranslation.distanthorizons":
+    "Allows you to see further than the vanilla render distance.",
+  "modmenu.descriptionTranslation.distanthorizons":
+    "Distant Horizons is a mod that allows you to see further than the vanilla render distance. It does this by generating lower detail levels of the world outside the vanilla render distance and rendering them instead of the vanilla chunks."
 }
