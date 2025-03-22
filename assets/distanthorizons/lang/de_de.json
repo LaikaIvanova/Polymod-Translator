@@ -876,5 +876,9 @@
   "distanthorizons.config.enum.EDhApiGrassSideRendering.FADE_TO_DIRT":
     "Fade To Dirt",
   "distanthorizons.config.enum.EDhApiGrassSideRendering.AS_DIRT":
-    "As Dirt"
+    "As Dirt",
+  "modmenu.summaryTranslation.distanthorizons":
+    "Ermöglicht es, weiter als die normale Renderdistanz zu sehen.",
+  "modmenu.descriptionTranslation.distanthorizons":
+    "Hohe Renderdistanzen dank LOD. Es funktioniert, indem das Spiel niedrigere Detailstufen (LOD) der Welt außerhalb der normalen Renderdistanz generiert und diese anstelle der normalen Chunks rendert."
 }

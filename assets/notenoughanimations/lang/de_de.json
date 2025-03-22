@@ -1,87 +1,172 @@
 ﻿{
-  "text.nea.title": "Not Enough Animations Einstellungen",
-  "text.nea.enable.animationsmoothing": "Animationsglättung",
-  "text.nea.enable.animationsmoothing.tooltip": "Glättet die Arm-/Beinanimationen, um sie natürlicher und weniger ruckartig aussehen zu lassen",
-  "text.nea.smoothingSpeed": "Glättungsmenge",
-  "text.nea.smoothingSpeed.tooltip": "Die Menge an Glättung, die auf die Arm-/Beinanimationen angewendet wird",
-  "text.nea.enable.inworldmaprendering": "In-Welt-Kartenrendering",
-  "text.nea.enable.inworldmaprendering.tooltip": "Rendert die Karte in der Welt anstatt nur in der ersten Person",
-  "text.nea.enable.offhandhiding": "Bogenanimationskorrekturen",
-  "text.nea.enable.offhandhiding.tooltip": "Versteckt Gegenstände in der Nebenhand beim Spannen eines Bogens",
-  "text.nea.enable.rotationlocking": "Animationsrotationssperre",
-  "text.nea.enable.rotationlocking.tooltip": "Sperrt die Rotation des Körpers des Spielers auf die Rotation des Kopfes des Spielers",
-  "text.nea.enable.ladderanimation": "Leiteranimation",
-  "text.nea.enable.ladderanimation.tooltip": "Fügt eine Animation für das Klettern von Leitern hinzu (Hinweis: nur Leitern, keine Ranken, Gerüste usw.)",
-  "text.nea.enable.eatdrinkanimation": "Ess-/Trinkanimation",
-  "text.nea.enable.eatdrinkanimation.tooltip": "Fügt eine Animation für das Essen und Trinken hinzu",
-  "text.nea.enable.rowboatanimation": "Ruderbootanimation",
-  "text.nea.enable.rowboatanimation.tooltip": "Fügt eine Animation für das Rudern eines Bootes hinzu",
-  "text.nea.enable.horseanimation": "Pferdereitanimation",
-  "text.nea.enable.horseanimation.tooltip": "Fügt eine Animation für das Reiten eines Pferdes hinzu",
-  "text.nea.enable.enableHorseLegAnimation": "Pferdereitbeinanimation",
-  "text.nea.enable.enableHorseLegAnimation.tooltip": "Animiert die Beine des Spielers in einer anderen Pose beim Reiten eines Pferdes",
-  "text.nea.enable.dontholditemsinbed": "Keine Schlafgegenstände",
-  "text.nea.enable.dontholditemsinbed.tooltip": "Verhindert, dass der Spieler Gegenstände im Bett hält",
-  "text.nea.enable.freezearmsinbed": "Keine Schlafbewegung",
-  "text.nea.enable.freezearmsinbed.tooltip": "Verhindert, dass der Spieler seine Arme im Bett bewegt",
-  "text.nea.rotationlock": "Rotationssperre",
-  "text.nea.rotationlock.tooltip": "Die Art der Rotationssperre, die verwendet werden soll",
-  "text.nea.rotationlock.NONE": "Keine",
-  "text.nea.rotationlock.FIXED": "Fest",
-  "text.nea.rotationlock.SMOOTH": "Glatt",
-  "text.nea.enable.showlastusedsword": "[Veraltet]Schwertscheide",
-  "text.nea.enable.showlastusedsword.tooltip": "[Veraltet und wird entfernt! Verwenden Sie andere Mods für diese Funktion!] Zeigt das zuletzt verwendete Schwert am Spieler an. Dies ist nur ein visueller Effekt ohne Kenntnis des tatsächlichen Inventars. Bitte melden Sie keine 'Fehler', dass das Schwert weiterhin angezeigt wird, nachdem es weggeworfen/ in eine Truhe gelegt wurde usw.",
-  "text.nea.enable.crawling": "Kriechanimation",
-  "text.nea.enable.crawling.tooltip": "Fügt eine Animation für das Kriechen hinzu und ersetzt die Vanilla-'Kriech'(Schwimm)-Animation",
-  "text.nea.enable.rotatetoladder": "Körper zur Leiter drehen",
-  "text.nea.enable.rotatetoladder.tooltip": "Dreht den Körper des Spielers zur Leiter, wenn er sie erklimmt",
-  "text.nea.holdUpItemsMode": "Hochhalten-Modus",
-  "text.nea.holdUpItemsMode.tooltip": "Lässt den Spieler Gegenstände hochhalten (als ob er sie betrachtet/ vor sich hält)",
-  "text.nea.holdUpItemsMode.ALL": "Alle Gegenstände",
-  "text.nea.holdUpItemsMode.NONE": "Keine Gegenstände",
-  "text.nea.holdUpItemsMode.CONFIG": "Nur konfigurierte Gegenstände",
-  "text.nea.holdUpItemOffset": "Hochhalte-Offset",
-  "text.nea.holdUpItemOffset.tooltip": "Ändert, wie stark der Gegenstand hochgehalten wird",
-  "text.nea.ladderAnimationAmplifier": "Leiterarmverstärker",
-  "text.nea.ladderAnimationAmplifier.tooltip": "Die Menge an Bewegung, die auf die Arme beim Klettern einer Leiter angewendet wird",
-  "text.nea.ladderAnimationArmHeight": "Leiterarmhöhe",
-  "text.nea.ladderAnimationArmHeight.tooltip": "Die Höhe der Arme beim Klettern einer Leiter",
-  "text.nea.ladderAnimationArmSpeed": "Leiterarmgeschwindigkeit",
-  "text.nea.ladderAnimationArmSpeed.tooltip": "Die Geschwindigkeit der Arme beim Klettern einer Leiter",
-  "text.nea.enable.itemSwapAnimation": "Gegenstandstauschanimation",
-  "text.nea.enable.itemSwapAnimation.tooltip": "Fügt eine Animation für den Tausch von Gegenständen von der Haupt- zur Nebenhand und umgekehrt hinzu",
-  "text.nea.enable.tweakElytraAnimation": "Elytra-Flug anpassen",
-  "text.nea.enable.tweakElytraAnimation.tooltip": "Passt die Elytra-Fluganimation an, um sie natürlicher aussehen zu lassen",
-  "text.nea.enable.petAnimation": "Haustiere streicheln",
-  "text.nea.enable.petAnimation.tooltip": "Fügt eine Animation für das Streicheln von Wölfen und Katzen hinzu. Schauen Sie den Wolf/die Katze an, während Sie schleichen, um ihn/sie zu streicheln",
-  "text.nea.enable.fallingAnimation": "[In Arbeit]Fallen-Animation",
-  "text.nea.enable.fallingAnimation.tooltip": "Fügt eine Animation für das Fallen hinzu",
-  "text.nea.enable.freezingAnimation": "Einfrieranimation",
-  "text.nea.enable.freezingAnimation.tooltip": "Fügt eine Animation für das Einfrieren hinzu",
-  "text.nea.enable.huggingAnimation": "Einfache Umarmungsanimation",
-  "text.nea.enable.huggingAnimation.tooltip": "Fügt eine Animation für das Umarmen hinzu. Schauen Sie einen anderen Spieler an, während Sie schleichen, um ihn zu 'umarmen'",
-  "text.nea.enable.narutoRunning": "❝Naruto-Lauf❞",
-  "text.nea.enable.narutoRunning.tooltip": "Fügt eine Animation für das Laufen im Stil von Naruto hinzu (Osterei)",
-  "text.nea.enable.enableInWorldBookRendering": "[In Arbeit]In-Welt-Bücher",
-  "text.nea.enable.enableInWorldBookRendering.tooltip": "Rendert Bücher in der Welt mit ihrem Text. Dies ist noch in Arbeit und funktioniert möglicherweise nicht richtig",
-  "text.nea.disableLegSmoothing": "Beinglättung deaktivieren",
-  "text.nea.disableLegSmoothing.tooltip": "Deaktiviert die Glättung der Beine",
-  "text.nea.enable.bowAnimation": "Bogenanimation",
-  "text.nea.enable.bowAnimation.tooltip": "Die Art der Bogenanimation, die verwendet werden soll",
-  "text.nea.enable.bowAnimation.VANILLA": "Vanilla",
-  "text.nea.enable.bowAnimation.CUSTOM_V1": "Benutzerdefiniert V1",
-  "text.nea.enable.burningAnimation": "Brennende Animation",
-  "text.nea.enable.burningAnimation.tooltip": "Fügt eine Animation hinzu, wenn der Spieler in Flammen steht.",
-  "text.nea.holdUpTarget": "Hochhalteziel",
-  "text.nea.holdUpTarget.tooltip": "Ändert, wohin der Gegenstand zeigt, wenn er hochgehalten wird",
-  "text.nea.holdUpTarget.NONE": "Keine",
-  "text.nea.holdUpTarget.CAMERA": "Kamera",
-  "text.nea.holdUpCameraOffset": "Hochhalte-Kamera-Offset",
-  "text.nea.holdUpCameraOffset.tooltip": "Ändert, wie stark der Arm zur Seite versetzt wird, wenn Gegenstände im Kameramodus hochgehalten werden",
-  "text.nea.enable.holdUpOnlySelf": "Nur selbst hochhalten",
-  "text.nea.enable.holdUpOnlySelf.tooltip": "Wendet den Hochhalte-Effekt nur auf den eigenen Spieler an, nicht auf andere Spieler",
-  "text.nea.enable.limitRotationLockToFP": "Rotationssperre auf FP beschränken",
-  "text.nea.enable.limitRotationLockToFP.tooltip": "Wendet den Rotationssperre-Effekt nur in der ersten Person an",
-  "modmenu.summaryTranslation.nea": "Bringt First-Person-Animationen in die Third-Person-Ansicht.",
-  "modmenu.descriptionTranslation.nea": "Fügt Animationen aus der Third-Person-Ansicht in die First-Person-Ansicht hinzu."
+  "text.nea.title":
+    "Not Enough Animations Einstellungen",
+  "text.nea.enable.animationsmoothing":
+    "Animationsglättung",
+  "text.nea.enable.animationsmoothing.tooltip":
+    "Glättet die Arm-/Beinanimationen, um sie natürlicher und weniger ruckartig aussehen zu lassen",
+  "text.nea.smoothingSpeed": 
+    "Glättungsmenge",
+  "text.nea.smoothingSpeed.tooltip": 
+    "Die Menge an Glättung, die auf die Arm-/Beinanimationen angewendet wird",
+  "text.nea.enable.inworldmaprendering": 
+    "In-Welt-Kartenrendering",
+  "text.nea.enable.inworldmaprendering.tooltip": 
+    "Rendert die Karte in der Welt anstatt nur in der ersten Person",
+  "text.nea.enable.offhandhiding": 
+    "Bogenanimationskorrekturen",
+  "text.nea.enable.offhandhiding.tooltip": 
+    "Versteckt Gegenstände in der Nebenhand beim Spannen eines Bogens",
+  "text.nea.enable.rotationlocking": 
+    "Animationsrotationssperre",
+  "text.nea.enable.rotationlocking.tooltip": 
+    "Sperrt die Rotation des Körpers des Spielers auf die Rotation des Kopfes des Spielers",
+  "text.nea.enable.ladderanimation": 
+    "Leiteranimation",
+  "text.nea.enable.ladderanimation.tooltip": 
+    "Fügt eine Animation für das Klettern von Leitern hinzu (Hinweis: nur Leitern, keine Ranken, Gerüste usw.)",
+  "text.nea.enable.eatdrinkanimation": 
+    "Ess-/Trinkanimation",
+  "text.nea.enable.eatdrinkanimation.tooltip": 
+    "Fügt eine Animation für das Essen und Trinken hinzu",
+  "text.nea.enable.rowboatanimation": 
+    "Ruderbootanimation",
+  "text.nea.enable.rowboatanimation.tooltip": 
+    "Fügt eine Animation für das Rudern eines Bootes hinzu",
+  "text.nea.enable.horseanimation": 
+    "Pferdereitanimation",
+  "text.nea.enable.horseanimation.tooltip": 
+    "Fügt eine Animation für das Reiten eines Pferdes hinzu",
+  "text.nea.enable.enableHorseLegAnimation": 
+    "Pferdereitbeinanimation",
+  "text.nea.enable.enableHorseLegAnimation.tooltip": 
+    "Animiert die Beine des Spielers in einer anderen Pose beim Reiten eines Pferdes",
+  "text.nea.enable.dontholditemsinbed": 
+    "Keine Schlafgegenstände",
+  "text.nea.enable.dontholditemsinbed.tooltip": 
+    "Verhindert, dass der Spieler Gegenstände im Bett hält",
+  "text.nea.enable.freezearmsinbed": 
+    "Keine Schlafbewegung",
+  "text.nea.enable.freezearmsinbed.tooltip": 
+    "Verhindert, dass der Spieler seine Arme im Bett bewegt",
+  "text.nea.rotationlock": 
+    "Rotationssperre",
+  "text.nea.rotationlock.tooltip": 
+    "Die Art der Rotationssperre, die verwendet werden soll",
+  "text.nea.rotationlock.NONE": 
+    "Keine",
+  "text.nea.rotationlock.FIXED": 
+    "Fest",
+  "text.nea.rotationlock.SMOOTH": 
+    "Glatt",
+  "text.nea.enable.showlastusedsword": 
+    "[Veraltet]Schwertscheide",
+  "text.nea.enable.showlastusedsword.tooltip": 
+    "[Veraltet und wird entfernt! Verwenden Sie andere Mods für diese Funktion!] Zeigt das zuletzt verwendete Schwert am Spieler an. Dies ist nur ein visueller Effekt ohne Kenntnis des tatsächlichen Inventars. Bitte melden Sie keine 'Fehler', dass das Schwert weiterhin angezeigt wird, nachdem es weggeworfen/ in eine Truhe gelegt wurde usw.",
+  "text.nea.enable.crawling": 
+    "Kriechanimation",
+  "text.nea.enable.crawling.tooltip": 
+    "Fügt eine Animation für das Kriechen hinzu und ersetzt die Vanilla-'Kriech'(Schwimm)-Animation",
+  "text.nea.enable.rotatetoladder": 
+    "Körper zur Leiter drehen",
+  "text.nea.enable.rotatetoladder.tooltip": 
+    "Dreht den Körper des Spielers zur Leiter, wenn er sie erklimmt",
+  "text.nea.holdUpItemsMode": 
+    "Hochhalten-Modus",
+  "text.nea.holdUpItemsMode.tooltip": 
+    "Lässt den Spieler Gegenstände hochhalten (als ob er sie betrachtet/ vor sich hält)",
+  "text.nea.holdUpItemsMode.ALL": 
+    "Alle Gegenstände",
+  "text.nea.holdUpItemsMode.NONE": 
+    "Keine Gegenstände",
+  "text.nea.holdUpItemsMode.CONFIG": 
+    "Nur konfigurierte Gegenstände",
+  "text.nea.holdUpItemOffset": 
+    "Hochhalte-Offset",
+  "text.nea.holdUpItemOffset.tooltip": 
+    "Ändert, wie stark der Gegenstand hochgehalten wird",
+  "text.nea.ladderAnimationAmplifier": 
+    "Leiterarmverstärker",
+  "text.nea.ladderAnimationAmplifier.tooltip": 
+    "Die Menge an Bewegung, die auf die Arme beim Klettern einer Leiter angewendet wird",
+  "text.nea.ladderAnimationArmHeight": 
+    "Leiterarmhöhe",
+  "text.nea.ladderAnimationArmHeight.tooltip": 
+    "Die Höhe der Arme beim Klettern einer Leiter",
+  "text.nea.ladderAnimationArmSpeed": 
+    "Leiterarmgeschwindigkeit",
+  "text.nea.ladderAnimationArmSpeed.tooltip": 
+    "Die Geschwindigkeit der Arme beim Klettern einer Leiter",
+  "text.nea.enable.itemSwapAnimation": 
+    "Gegenstandstauschanimation",
+  "text.nea.enable.itemSwapAnimation.tooltip": 
+    "Fügt eine Animation für den Tausch von Gegenständen von der Haupt- zur Nebenhand und umgekehrt hinzu",
+  "text.nea.enable.tweakElytraAnimation": 
+    "Elytra-Flug anpassen",
+  "text.nea.enable.tweakElytraAnimation.tooltip": 
+    "Passt die Elytra-Fluganimation an, um sie natürlicher aussehen zu lassen",
+  "text.nea.enable.petAnimation": 
+    "Haustiere streicheln",
+  "text.nea.enable.petAnimation.tooltip": 
+    "Fügt eine Animation für das Streicheln von Wölfen und Katzen hinzu. Schauen Sie den Wolf/die Katze an, während Sie schleichen, um ihn/sie zu streicheln",
+  "text.nea.enable.fallingAnimation": 
+    "[In Arbeit]Fallen-Animation",
+  "text.nea.enable.fallingAnimation.tooltip": 
+    "Fügt eine Animation für das Fallen hinzu",
+  "text.nea.enable.freezingAnimation": 
+    "Einfrieranimation",
+  "text.nea.enable.freezingAnimation.tooltip": 
+    "Fügt eine Animation für das Einfrieren hinzu",
+  "text.nea.enable.huggingAnimation": 
+    "Einfache Umarmungsanimation",
+  "text.nea.enable.huggingAnimation.tooltip": 
+    "Fügt eine Animation für das Umarmen hinzu. Schauen Sie einen anderen Spieler an, während Sie schleichen, um ihn zu 'umarmen'",
+  "text.nea.enable.narutoRunning": 
+    "❝Naruto-Lauf❞",
+  "text.nea.enable.narutoRunning.tooltip": 
+    "Fügt eine Animation für das Laufen im Stil von Naruto hinzu (Osterei)",
+  "text.nea.enable.enableInWorldBookRendering": 
+    "[In Arbeit]In-Welt-Bücher",
+  "text.nea.enable.enableInWorldBookRendering.tooltip": 
+    "Rendert Bücher in der Welt mit ihrem Text. Dies ist noch in Arbeit und funktioniert möglicherweise nicht richtig",
+  "text.nea.disableLegSmoothing": 
+    "Beinglättung deaktivieren",
+  "text.nea.disableLegSmoothing.tooltip": 
+    "Deaktiviert die Glättung der Beine",
+  "text.nea.enable.bowAnimation": 
+    "Bogenanimation",
+  "text.nea.enable.bowAnimation.tooltip": 
+    "Die Art der Bogenanimation, die verwendet werden soll",
+  "text.nea.enable.bowAnimation.VANILLA": 
+    "Vanilla",
+  "text.nea.enable.bowAnimation.CUSTOM_V1": 
+    "Benutzerdefiniert V1",
+  "text.nea.enable.burningAnimation": 
+    "Brennende Animation",
+  "text.nea.enable.burningAnimation.tooltip": 
+    "Fügt eine Animation hinzu, wenn der Spieler in Flammen steht.",
+  "text.nea.holdUpTarget": 
+    "Hochhalteziel",
+  "text.nea.holdUpTarget.tooltip": 
+    "Ändert, wohin der Gegenstand zeigt, wenn er hochgehalten wird",
+  "text.nea.holdUpTarget.NONE": 
+    "Keine",
+  "text.nea.holdUpTarget.CAMERA": 
+    "Kamera",
+  "text.nea.holdUpCameraOffset": 
+    "Hochhalte-Kamera-Offset",
+  "text.nea.holdUpCameraOffset.tooltip": 
+    "Ändert, wie stark der Arm zur Seite versetzt wird, wenn Gegenstände im Kameramodus hochgehalten werden",
+  "text.nea.enable.holdUpOnlySelf": 
+    "Nur selbst hochhalten",
+  "text.nea.enable.holdUpOnlySelf.tooltip": 
+    "Wendet den Hochhalte-Effekt nur auf den eigenen Spieler an, nicht auf andere Spieler",
+  "text.nea.enable.limitRotationLockToFP": 
+    "Rotationssperre auf FP beschränken",
+  "text.nea.enable.limitRotationLockToFP.tooltip": 
+    "Wendet den Rotationssperre-Effekt nur in der ersten Person an",
+  "modmenu.summaryTranslation.nea": 
+    "Bringt First-Person-Animationen in die Third-Person-Ansicht.",
+  "modmenu.descriptionTranslation.nea": 
+    "Fügt Animationen aus der Third-Person-Ansicht in die First-Person-Ansicht hinzu."
 }

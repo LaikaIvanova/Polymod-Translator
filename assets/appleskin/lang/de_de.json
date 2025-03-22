@@ -1,25 +1,48 @@
 {
-  "text.autoconfig.appleskin.title": "AppleSkin",
-  "text.autoconfig.appleskin.option.showFoodValuesInTooltip": "Zeige Nährwerte in Tooltip",
-  "text.autoconfig.appleskin.option.showFoodValuesInTooltip.@Tooltip": "If true, shows the hunger and saturation values of food in its tooltip while holding SHIFT",
-  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways": "Zeige immer Nährwerte in Tooltip",
-  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways.@Tooltip": "If true, shows the hunger and saturation values of food in its tooltip automatically (without needing to hold SHIFT)",
-  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay": "Zeige wiederhergestellten Hunger vom gehaltenen Essen",
-  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay.@Tooltip": "If true, shows the hunger (and saturation if showSaturationHudOverlay is true) that would be restored by food you are currently holding",
-  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand": "Zeige Overlays für in Offhand gehaltenes Essen",
-  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand.@Tooltip": "If true, enables the hunger/saturation/health overlays for food in your off-hand",
-  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay": "Zeige geschätzte Gesundheits-Overlay",
-  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay.@Tooltip": "If true, shows estimated health restored by food on the health bar",
-  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay": "Zeige Erschöpfungs-Unterlage",
-  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay.@Tooltip": "If true, shows your food exhaustion as a progress bar behind the hunger bar",
-  "text.autoconfig.appleskin.option.showSaturationHudOverlay": "Zeige Sättigungs-Overlay",
-  "text.autoconfig.appleskin.option.showSaturationHudOverlay.@Tooltip": "If true, shows your current saturation level overlayed on the hunger bar",
-  "text.autoconfig.appleskin.option.showFoodDebugInfo": "Zeige Essensangaben in Debug Bildschirm",
-  "text.autoconfig.appleskin.option.showFoodDebugInfo.@Tooltip":"If true, shows your hunger, saturation, and exhaustion level in Debug Screen",
-  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay": "Animiere HUD Icons passend zu Minecraft",
-  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay.@Tooltip": "If true, health/hunger overlay will shake to match Minecraft's icon animations",
-  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "Max Alpha von aufleuchtenden HUD-Icons",
-  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip": "Wie sichtbar die aufleuchtenden HUD-Icons sein sollen",
-  "modmenu.summaryTranslation.appleskin": "Fügt zusätzliche HUD-Elemente für Nahrung hinzu.",
-  "modmenu.descriptionTranslation.appleskin": "Fügt zusätzliche HUD-Elemente für Nahrung hinzu, z.B. eine Anzeige für Sättigung."
+  "text.autoconfig.appleskin.title":
+    "AppleSkin",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltip":
+    "Zeige Nährwerte in Tooltip",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltip.@Tooltip":
+    "If true, shows the hunger and saturation values of food in its tooltip while holding SHIFT",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways":
+    "Zeige immer Nährwerte in Tooltip",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways.@Tooltip":
+    "If true, shows the hunger and saturation values of food in its tooltip automatically (without needing to hold SHIFT)",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay":
+    "Zeige wiederhergestellten Hunger vom gehaltenen Essen",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay.@Tooltip":
+    "If true, shows the hunger (and saturation if showSaturationHudOverlay is true) that would be restored by food you are currently holding",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand":
+    "Zeige Overlays für in Offhand gehaltenes Essen",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand.@Tooltip":
+    "If true, enables the hunger/saturation/health overlays for food in your off-hand",
+  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay":
+    "Zeige geschätzte Gesundheits-Overlay",
+  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay.@Tooltip":
+    "If true, shows estimated health restored by food on the health bar",
+  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay":
+    "Zeige Erschöpfungs-Unterlage",
+  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay.@Tooltip":
+    "If true, shows your food exhaustion as a progress bar behind the hunger bar",
+  "text.autoconfig.appleskin.option.showSaturationHudOverlay":
+    "Zeige Sättigungs-Overlay",
+  "text.autoconfig.appleskin.option.showSaturationHudOverlay.@Tooltip":
+    "If true, shows your current saturation level overlayed on the hunger bar",
+  "text.autoconfig.appleskin.option.showFoodDebugInfo":
+    "Zeige Essensangaben in Debug Bildschirm",
+  "text.autoconfig.appleskin.option.showFoodDebugInfo.@Tooltip":
+    "If true, shows your hunger, saturation, and exhaustion level in Debug Screen",
+  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay":
+    "Animiere HUD Icons passend zu Minecraft",
+  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay.@Tooltip":
+    "If true, health/hunger overlay will shake to match Minecraft's icon animations",
+  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha":
+    "Max Alpha von aufleuchtenden HUD-Icons",
+  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip":
+    "Wie sichtbar die aufleuchtenden HUD-Icons sein sollen",
+  "modmenu.summaryTranslation.appleskin":
+    "Fügt zusätzliche HUD-Elemente für Nahrung hinzu.",
+  "modmenu.descriptionTranslation.appleskin":
+    "Fügt zusätzliche HUD-Elemente für Nahrung hinzu, z.B. eine Anzeige für Sättigung."
 }
