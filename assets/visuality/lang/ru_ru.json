@@ -1,21 +1,40 @@
 ﻿{
-  "config.visuality.title": "Конфигурация Visuality",
-  "config.visuality.general": "Общие",
-  "config.visuality.option.slime": "Слизистые капли включены",
-  "config.visuality.option.slime.color": "Цвет слизистых капель",
-  "config.visuality.option.charge": "Частица заряда включена",
-  "config.visuality.option.sparkle": "Частица искры включена",
-  "config.visuality.option.soul": "Частица души включена",
-  "config.visuality.option.waterCircle": "Водяные круги включены",
-  "config.visuality.option.waterCircle.colored": "Цветные водяные круги",
-  "config.visuality.option.waterCircle.density": "Плотность водяных кругов",
-  "config.visuality.option.waterCircle.radius": "Радиус водяных кругов",
-  "config.visuality.option.hitParticles": "Частицы удара включены",
-  "config.visuality.option.hitParticles.entries": "Записи частиц удара",
-  "config.visuality.option.shinyArmor": "Блестящие доспехи включены",
-  "config.visuality.option.shinyArmor.entries": "Записи блестящих доспехов",
-  "config.visuality.option.shinyBlocks": "Блестящие блоки включены",
-  "config.visuality.option.shinyBlocks.entries": "Записи блестящих блоков",
-  "modmenu.summaryTranslation.visuality": "Обеспечивает визуальные улучшения с новыми частицами.",
-  "modmenu.descriptionTranslation.visuality": "Небольшие визуальные улучшения за счет добавления множества новых частиц. Эти улучшения включают различные эффекты частиц, такие как слизистые капли, частицы заряда, частицы искры, частицы души, водяные круги, частицы удара, блестящие доспехи и блестящие блоки, все направленные на обогащение визуального опыта в игре."
+  "config.visuality.title":
+    "Конфигурация Visuality",
+  "config.visuality.general":
+    "Общие",
+  "config.visuality.option.slime":
+    "Слизистые капли включены",
+  "config.visuality.option.slime.color":
+    "Цвет слизистых капель",
+  "config.visuality.option.charge":
+    "Частица заряда включена",
+  "config.visuality.option.sparkle":
+    "Частица искры включена",
+  "config.visuality.option.soul":
+    "Частица души включена",
+  "config.visuality.option.waterCircle":
+    "Водяные круги включены",
+  "config.visuality.option.waterCircle.colored":
+    "Цветные водяные круги",
+  "config.visuality.option.waterCircle.density":
+    "Плотность водяных кругов",
+  "config.visuality.option.waterCircle.radius":
+    "Радиус водяных кругов",
+  "config.visuality.option.hitParticles":
+    "Частицы удара включены",
+  "config.visuality.option.hitParticles.entries":
+    "Записи частиц удара",
+  "config.visuality.option.shinyArmor":
+    "Блестящие доспехи включены",
+  "config.visuality.option.shinyArmor.entries":
+    "Записи блестящих доспехов",
+  "config.visuality.option.shinyBlocks":
+    "Блестящие блоки включены",
+  "config.visuality.option.shinyBlocks.entries":
+    "Записи блестящих блоков",
+  "modmenu.summaryTranslation.visuality":
+    "Обеспечивает визуальные улучшения с новыми частицами.",
+  "modmenu.descriptionTranslation.visuality":
+    "Небольшие визуальные улучшения за счет добавления множества новых частиц. Эти улучшения включают различные эффекты частиц, такие как слизистые капли, частицы заряда, частицы искры, частицы души, водяные круги, частицы удара, блестящие доспехи и блестящие блоки, все направленные на обогащение визуального опыта в игре."
 }

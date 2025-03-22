@@ -1,87 +1,172 @@
 ﻿{
-  "text.nea.title": "Настройки Not Enough Animations",
-  "text.nea.enable.animationsmoothing": "Сглаживание анимации",
-  "text.nea.enable.animationsmoothing.tooltip": "Сглаживает анимации рук/ног, чтобы они выглядели более естественно и менее дергано",
-  "text.nea.smoothingSpeed": "Количество сглаживания",
-  "text.nea.smoothingSpeed.tooltip": "Количество сглаживания, применяемое к анимациям рук/ног",
-  "text.nea.enable.inworldmaprendering": "Отображение карты в мире",
-  "text.nea.enable.inworldmaprendering.tooltip": "Отображает карту в мире, а не только от первого лица",
-  "text.nea.enable.offhandhiding": "Исправления анимации лука",
-  "text.nea.enable.offhandhiding.tooltip": "Скрывает предметы в другой руке при натягивании лука",
-  "text.nea.enable.rotationlocking": "Блокировка вращения анимации",
-  "text.nea.enable.rotationlocking.tooltip": "Блокирует вращение тела игрока в соответствии с вращением головы игрока",
-  "text.nea.enable.ladderanimation": "Анимация лестницы",
-  "text.nea.enable.ladderanimation.tooltip": "Добавляет анимацию для подъема по лестницам (примечание: только лестницы, не лианы, строительные леса и т.д.)",
-  "text.nea.enable.eatdrinkanimation": "Анимация еды/питья",
-  "text.nea.enable.eatdrinkanimation.tooltip": "Добавляет анимацию для еды и питья",
-  "text.nea.enable.rowboatanimation": "Анимация гребли на лодке",
-  "text.nea.enable.rowboatanimation.tooltip": "Добавляет анимацию для гребли на лодке",
-  "text.nea.enable.horseanimation": "Анимация верховой езды",
-  "text.nea.enable.horseanimation.tooltip": "Добавляет анимацию для верховой езды",
-  "text.nea.enable.enableHorseLegAnimation": "Анимация ног при верховой езде",
-  "text.nea.enable.enableHorseLegAnimation.tooltip": "Анимирует ноги игрока в другой позе при верховой езде",
-  "text.nea.enable.dontholditemsinbed": "Без предметов в кровати",
-  "text.nea.enable.dontholditemsinbed.tooltip": "Не позволяет игроку держать предметы в руках, находясь в кровати",
-  "text.nea.enable.freezearmsinbed": "Без движения в кровати",
-  "text.nea.enable.freezearmsinbed.tooltip": "Не позволяет игроку двигать руками, находясь в кровати",
-  "text.nea.rotationlock": "Блокировка вращения",
-  "text.nea.rotationlock.tooltip": "Тип блокировки вращения",
-  "text.nea.rotationlock.NONE": "Нет",
-  "text.nea.rotationlock.FIXED": "Фиксированное",
-  "text.nea.rotationlock.SMOOTH": "Сглаженное",
-  "text.nea.enable.showlastusedsword": "[Устарело] Ношение меча",
-  "text.nea.enable.showlastusedsword.tooltip": "[Устарело для удаления! Используйте другие моды для этой функции!] Показывает последний использованный меч на игроке. Это всего лишь визуальный эффект без учета реального инвентаря. Пожалуйста, не сообщайте о 'багах', что меч все еще отображается после его выбрасывания/помещения в сундук и т.д.",
-  "text.nea.enable.crawling": "Анимация ползания",
-  "text.nea.enable.crawling.tooltip": "Добавляет анимацию для ползания, заменяя ванильную анимацию 'ползания' (плавания)",
-  "text.nea.enable.rotatetoladder": "Поворот тела к лестнице",
-  "text.nea.enable.rotatetoladder.tooltip": "Поворачивает тело игрока к лестнице при подъеме по ней",
-  "text.nea.holdUpItemsMode": "Режим поднятия предметов",
-  "text.nea.holdUpItemsMode.tooltip": "Заставляет игрока поднимать предметы (как будто он смотрит на них/держит их перед собой)",
-  "text.nea.holdUpItemsMode.ALL": "Все предметы",
-  "text.nea.holdUpItemsMode.NONE": "Нет предметов",
-  "text.nea.holdUpItemsMode.CONFIG": "Только настроенные предметы",
-  "text.nea.holdUpItemOffset": "Смещение поднятия предметов",
-  "text.nea.holdUpItemOffset.tooltip": "Изменяет, насколько предмет поднят",
-  "text.nea.ladderAnimationAmplifier": "Усилитель анимации рук на лестнице",
-  "text.nea.ladderAnimationAmplifier.tooltip": "Количество движения, применяемое к рукам при подъеме по лестнице",
-  "text.nea.ladderAnimationArmHeight": "Высота рук на лестнице",
-  "text.nea.ladderAnimationArmHeight.tooltip": "Высота рук при подъеме по лестнице",
-  "text.nea.ladderAnimationArmSpeed": "Скорость рук на лестнице",
-  "text.nea.ladderAnimationArmSpeed.tooltip": "Скорость рук при подъеме по лестнице",
-  "text.nea.enable.itemSwapAnimation": "Анимация смены предметов",
-  "text.nea.enable.itemSwapAnimation.tooltip": "Добавляет анимацию для смены предметов из основной руки в другую и наоборот",
-  "text.nea.enable.tweakElytraAnimation": "Настройка анимации полета на элитрах",
-  "text.nea.enable.tweakElytraAnimation.tooltip": "Настраивает анимацию полета на элитрах, чтобы она выглядела более естественно",
-  "text.nea.enable.petAnimation": "Анимация поглаживания волков/кошек",
-  "text.nea.enable.petAnimation.tooltip": "Добавляет анимацию для поглаживания волков и кошек. Посмотрите на волка/кошку, находясь в приседе, чтобы погладить его",
-  "text.nea.enable.fallingAnimation": "[В разработке] Анимация падения",
-  "text.nea.enable.fallingAnimation.tooltip": "Добавляет анимацию для падения",
-  "text.nea.enable.freezingAnimation": "Анимация замерзания",
-  "text.nea.enable.freezingAnimation.tooltip": "Добавляет анимацию для замерзания",
-  "text.nea.enable.huggingAnimation": "Простая анимация объятий",
-  "text.nea.enable.huggingAnimation.tooltip": "Добавляет анимацию для объятий. Посмотрите на другого игрока, находясь в приседе, чтобы 'обнять' его",
-  "text.nea.enable.narutoRunning": "❝Бег в стиле Наруто❞",
-  "text.nea.enable.narutoRunning.tooltip": "Добавляет анимацию для бега в стиле Наруто (пасхалка)",
-  "text.nea.enable.enableInWorldBookRendering": "[В разработке] Отображение книг в мире",
-  "text.nea.enable.enableInWorldBookRendering.tooltip": "Отображает книги в мире с их текстом. Это все еще в разработке и может работать неправильно",
-  "text.nea.disableLegSmoothing": "Отключить сглаживание ног",
-  "text.nea.disableLegSmoothing.tooltip": "Отключает сглаживание ног",
-  "text.nea.enable.bowAnimation": "Анимация лука",
-  "text.nea.enable.bowAnimation.tooltip": "Тип анимации лука",
-  "text.nea.enable.bowAnimation.VANILLA": "Ванильная",
-  "text.nea.enable.bowAnimation.CUSTOM_V1": "Пользовательская V1",
-  "text.nea.enable.burningAnimation": "Анимация горения",
-  "text.nea.enable.burningAnimation.tooltip": "Добавляет анимацию, когда игрок в огне.",
-  "text.nea.holdUpTarget": "Цель поднятия",
-  "text.nea.holdUpTarget.tooltip": "Изменяет, куда указывает предмет при поднятии",
-  "text.nea.holdUpTarget.NONE": "Нет",
-  "text.nea.holdUpTarget.CAMERA": "Камера",
-  "text.nea.holdUpCameraOffset": "Смещение камеры при поднятии",
-  "text.nea.holdUpCameraOffset.tooltip": "Изменяет, насколько рука смещена в стороны при поднятии предметов в режиме камеры",
-  "text.nea.enable.holdUpOnlySelf": "Поднимать только для себя",
-  "text.nea.enable.holdUpOnlySelf.tooltip": "Применяет эффект поднятия только к своему игроку, а не к другим игрокам",
-  "text.nea.enable.limitRotationLockToFP": "Ограничить блокировку вращения до первого лица",
-  "text.nea.enable.limitRotationLockToFP.tooltip": "Применяет эффект блокировки вращения только в режиме от первого лица",
-  "modmenu.summaryTranslation.nea": "Перенос анимаций от первого лица в третье лицо.",
-  "modmenu.descriptionTranslation.nea": "Добавляет анимации из третьего лица в вид от первого лица."
+  "text.nea.title":
+    "Настройки Not Enough Animations",
+  "text.nea.enable.animationsmoothing":
+    "Сглаживание анимации",
+  "text.nea.enable.animationsmoothing.tooltip":
+    "Сглаживает анимации рук/ног, чтобы они выглядели более естественно и менее дергано",
+  "text.nea.smoothingSpeed":
+    "Количество сглаживания",
+  "text.nea.smoothingSpeed.tooltip":
+    "Количество сглаживания, применяемое к анимациям рук/ног",
+  "text.nea.enable.inworldmaprendering":
+    "Отображение карты в мире",
+  "text.nea.enable.inworldmaprendering.tooltip":
+    "Отображает карту в мире, а не только от первого лица",
+  "text.nea.enable.offhandhiding":
+    "Исправления анимации лука",
+  "text.nea.enable.offhandhiding.tooltip":
+    "Скрывает предметы в другой руке при натягивании лука",
+  "text.nea.enable.rotationlocking":
+    "Блокировка вращения анимации",
+  "text.nea.enable.rotationlocking.tooltip":
+    "Блокирует вращение тела игрока в соответствии с вращением головы игрока",
+  "text.nea.enable.ladderanimation":
+    "Анимация лестницы",
+  "text.nea.enable.ladderanimation.tooltip":
+    "Добавляет анимацию для подъема по лестницам (примечание: только лестницы, не лианы, строительные леса и т.д.)",
+  "text.nea.enable.eatdrinkanimation":
+    "Анимация еды/питья",
+  "text.nea.enable.eatdrinkanimation.tooltip":
+    "Добавляет анимацию для еды и питья",
+  "text.nea.enable.rowboatanimation":
+    "Анимация гребли на лодке",
+  "text.nea.enable.rowboatanimation.tooltip":
+    "Добавляет анимацию для гребли на лодке",
+  "text.nea.enable.horseanimation":
+    "Анимация верховой езды",
+  "text.nea.enable.horseanimation.tooltip":
+    "Добавляет анимацию для верховой езды",
+  "text.nea.enable.enableHorseLegAnimation":
+    "Анимация ног при верховой езде",
+  "text.nea.enable.enableHorseLegAnimation.tooltip":
+    "Анимирует ноги игрока в другой позе при верховой езде",
+  "text.nea.enable.dontholditemsinbed":
+    "Без предметов в кровати",
+  "text.nea.enable.dontholditemsinbed.tooltip":
+    "Не позволяет игроку держать предметы в руках, находясь в кровати",
+  "text.nea.enable.freezearmsinbed":
+    "Без движения в кровати",
+  "text.nea.enable.freezearmsinbed.tooltip":
+    "Не позволяет игроку двигать руками, находясь в кровати",
+  "text.nea.rotationlock":
+    "Блокировка вращения",
+  "text.nea.rotationlock.tooltip":
+    "Тип блокировки вращения",
+  "text.nea.rotationlock.NONE":
+    "Нет",
+  "text.nea.rotationlock.FIXED":
+    "Фиксированное",
+  "text.nea.rotationlock.SMOOTH":
+    "Сглаженное",
+  "text.nea.enable.showlastusedsword":
+    "[Устарело] Ношение меча",
+  "text.nea.enable.showlastusedsword.tooltip":
+    "[Устарело для удаления! Используйте другие моды для этой функции!] Показывает последний использованный меч на игроке. Это всего лишь визуальный эффект без учета реального инвентаря. Пожалуйста, не сообщайте о 'багах', что меч все еще отображается после его выбрасывания/помещения в сундук и т.д.",
+  "text.nea.enable.crawling":
+    "Анимация ползания",
+  "text.nea.enable.crawling.tooltip":
+    "Добавляет анимацию для ползания, заменяя ванильную анимацию 'ползания' (плавания)",
+  "text.nea.enable.rotatetoladder":
+    "Поворот тела к лестнице",
+  "text.nea.enable.rotatetoladder.tooltip":
+    "Поворачивает тело игрока к лестнице при подъеме по ней",
+  "text.nea.holdUpItemsMode":
+    "Режим поднятия предметов",
+  "text.nea.holdUpItemsMode.tooltip":
+    "Заставляет игрока поднимать предметы (как будто он смотрит на них/держит их перед собой)",
+  "text.nea.holdUpItemsMode.ALL":
+    "Все предметы",
+  "text.nea.holdUpItemsMode.NONE":
+    "Нет предметов",
+  "text.nea.holdUpItemsMode.CONFIG":
+    "Только настроенные предметы",
+  "text.nea.holdUpItemOffset":
+    "Смещение поднятия предметов",
+  "text.nea.holdUpItemOffset.tooltip":
+    "Изменяет, насколько предмет поднят",
+  "text.nea.ladderAnimationAmplifier":
+    "Усилитель анимации рук на лестнице",
+  "text.nea.ladderAnimationAmplifier.tooltip":
+    "Количество движения, применяемое к рукам при подъеме по лестнице",
+  "text.nea.ladderAnimationArmHeight":
+    "Высота рук на лестнице",
+  "text.nea.ladderAnimationArmHeight.tooltip":
+    "Высота рук при подъеме по лестнице",
+  "text.nea.ladderAnimationArmSpeed":
+    "Скорость рук на лестнице",
+  "text.nea.ladderAnimationArmSpeed.tooltip":
+    "Скорость рук при подъеме по лестнице",
+  "text.nea.enable.itemSwapAnimation":
+    "Анимация смены предметов",
+  "text.nea.enable.itemSwapAnimation.tooltip":
+    "Добавляет анимацию для смены предметов из основной руки в другую и наоборот",
+  "text.nea.enable.tweakElytraAnimation":
+    "Настройка анимации полета на элитрах",
+  "text.nea.enable.tweakElytraAnimation.tooltip":
+    "Настраивает анимацию полета на элитрах, чтобы она выглядела более естественно",
+  "text.nea.enable.petAnimation":
+    "Анимация поглаживания волков/кошек",
+  "text.nea.enable.petAnimation.tooltip":
+    "Добавляет анимацию для поглаживания волков и кошек. Посмотрите на волка/кошку, находясь в приседе, чтобы погладить его",
+  "text.nea.enable.fallingAnimation":
+    "[В разработке] Анимация падения",
+  "text.nea.enable.fallingAnimation.tooltip":
+    "Добавляет анимацию для падения",
+  "text.nea.enable.freezingAnimation":
+    "Анимация замерзания",
+  "text.nea.enable.freezingAnimation.tooltip":
+    "Добавляет анимацию для замерзания",
+  "text.nea.enable.huggingAnimation":
+    "Простая анимация объятий",
+  "text.nea.enable.huggingAnimation.tooltip":
+    "Добавляет анимацию для объятий. Посмотрите на другого игрока, находясь в приседе, чтобы 'обнять' его",
+  "text.nea.enable.narutoRunning":
+    "❝Бег в стиле Наруто❞",
+  "text.nea.enable.narutoRunning.tooltip":
+    "Добавляет анимацию для бега в стиле Наруто (пасхалка)",
+  "text.nea.enable.enableInWorldBookRendering":
+    "[В разработке] Отображение книг в мире",
+  "text.nea.enable.enableInWorldBookRendering.tooltip":
+    "Отображает книги в мире с их текстом. Это все еще в разработке и может работать неправильно",
+  "text.nea.disableLegSmoothing":
+    "Отключить сглаживание ног",
+  "text.nea.disableLegSmoothing.tooltip":
+    "Отключает сглаживание ног",
+  "text.nea.enable.bowAnimation":
+    "Анимация лука",
+  "text.nea.enable.bowAnimation.tooltip":
+    "Тип анимации лука",
+  "text.nea.enable.bowAnimation.VANILLA":
+    "Ванильная",
+  "text.nea.enable.bowAnimation.CUSTOM_V1":
+    "Пользовательская V1",
+  "text.nea.enable.burningAnimation":
+    "Анимация горения",
+  "text.nea.enable.burningAnimation.tooltip":
+    "Добавляет анимацию, когда игрок в огне.",
+  "text.nea.holdUpTarget":
+    "Цель поднятия",
+  "text.nea.holdUpTarget.tooltip":
+    "Изменяет, куда указывает предмет при поднятии",
+  "text.nea.holdUpTarget.NONE":
+    "Нет",
+  "text.nea.holdUpTarget.CAMERA":
+    "Камера",
+  "text.nea.holdUpCameraOffset":
+    "Смещение камеры при поднятии",
+  "text.nea.holdUpCameraOffset.tooltip":
+    "Изменяет, насколько рука смещена в стороны при поднятии предметов в режиме камеры",
+  "text.nea.enable.holdUpOnlySelf":
+    "Поднимать только для себя",
+  "text.nea.enable.holdUpOnlySelf.tooltip":
+    "Применяет эффект поднятия только к своему игроку, а не к другим игрокам",
+  "text.nea.enable.limitRotationLockToFP":
+    "Ограничить блокировку вращения до первого лица",
+  "text.nea.enable.limitRotationLockToFP.tooltip":
+    "Применяет эффект блокировки вращения только в режиме от первого лица",
+  "modmenu.summaryTranslation.nea":
+    "Перенос анимаций от первого лица в третье лицо.",
+  "modmenu.descriptionTranslation.nea":
+    "Добавляет анимации из третьего лица в вид от первого лица."
 }

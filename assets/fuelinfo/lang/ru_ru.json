@@ -1,21 +1,40 @@
 {
-  "message.fuelinfo.furnace.items": "§e%d предмет(ов)",
-  "message.fuelinfo.furnace.stacks": "§e%d стопка(и)",
-  "message.fuelinfo.furnace.both": "§e%d стопка(и) и §e%d предмет(ов)",
-  "message.fuelinfo.brewing_stand": "§e%d зелье(й)",
-  "message.fuelinfo.brewing_stand.set": "§e%d §fнабор(ов)",
-  "message.fuelinfo.timer": "Время: %s:%s",
-  "message.fuelinfo.timer.current": "Время: %s:%s",
-  "configOption.fuelinfo.showFuelData": "Показать данные о топливе",
-  "configOption.fuelinfo.showFuelData.desc": "Если включено, показывает, сколько предметов или стопок можно обработать.",
-  "configOption.fuelinfo.showTimer": "Показать таймер",
-  "configOption.fuelinfo.showTimer.desc": "Если включено, показывает оставшееся время горения печи.",
-  "configGroup.fuelinfo.flame": "Пламя",
-  "configGroup.fuelinfo.flame.desc": "Настройте, какие элементы будут отображаться при наведении курсора на пламя печи.",
-  "configGroup.fuelinfo.gauge": "Индикатор",
-  "configGroup.fuelinfo.gauge.desc": "Настройте, какие элементы будут отображаться при наведении курсора на индикатор топлива варочного стенда.",
-  "configGroup.fuelinfo.progress_arrow": "Индикатор прогресса",
-  "configGroup.fuelinfo.progress_arrow.desc": "Настройте, какие элементы будут отображаться при наведении курсора на индикатор прогресса.",
-  "modmenu.summaryTranslation.fuelinfo": "Добавляет дополнительную информацию для печи и варочного стенда.",
-  "modmenu.descriptionTranslation.fuelinfo": "Добавляет дополнительную информацию для печи и варочного стенда, например, сколько предметов можно обработать или сколько времени потребуется для обработки всех предметов."
+  "message.fuelinfo.furnace.items":
+    "§e%d предмет(ов)",
+  "message.fuelinfo.furnace.stacks":
+    "§e%d стопка(и)",
+  "message.fuelinfo.furnace.both":
+    "§e%d стопка(и) и §e%d предмет(ов)",
+  "message.fuelinfo.brewing_stand":
+    "§e%d зелье(й)",
+  "message.fuelinfo.brewing_stand.set":
+    "§e%d §fнабор(ов)",
+  "message.fuelinfo.timer":
+    "Время: %s:%s",
+  "message.fuelinfo.timer.current":
+    "Время: %s:%s",
+  "configOption.fuelinfo.showFuelData":
+    "Показать данные о топливе",
+  "configOption.fuelinfo.showFuelData.desc":
+    "Если включено, показывает, сколько предметов или стопок можно обработать.",
+  "configOption.fuelinfo.showTimer":
+    "Показать таймер",
+  "configOption.fuelinfo.showTimer.desc":
+    "Если включено, показывает оставшееся время горения печи.",
+  "configGroup.fuelinfo.flame":
+    "Пламя",
+  "configGroup.fuelinfo.flame.desc":
+    "Настройте, какие элементы будут отображаться при наведении курсора на пламя печи.",
+  "configGroup.fuelinfo.gauge":
+    "Индикатор",
+  "configGroup.fuelinfo.gauge.desc":
+    "Настройте, какие элементы будут отображаться при наведении курсора на индикатор топлива варочного стенда.",
+  "configGroup.fuelinfo.progress_arrow":
+    "Индикатор прогресса",
+  "configGroup.fuelinfo.progress_arrow.desc":
+    "Настройте, какие элементы будут отображаться при наведении курсора на индикатор прогресса.",
+  "modmenu.summaryTranslation.fuelinfo":
+    "Добавляет дополнительную информацию для печи и варочного стенда.",
+  "modmenu.descriptionTranslation.fuelinfo":
+    "Добавляет дополнительную информацию для печи и варочного стенда, например, сколько предметов можно обработать или сколько времени потребуется для обработки всех предметов."
 }

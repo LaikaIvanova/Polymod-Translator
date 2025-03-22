@@ -876,5 +876,9 @@
   "distanthorizons.config.enum.EDhApiGrassSideRendering.FADE_TO_DIRT":
     "Fade To Dirt",
   "distanthorizons.config.enum.EDhApiGrassSideRendering.AS_DIRT":
-    "As Dirt"
+    "As Dirt",
+  "modmenu.summaryTranslation.distanthorizons":
+    "Позволяет видеть дальше, чем стандартное расстояние прорисовки в Minecraft.",
+  "modmenu.descriptionTranslation.distanthorizons":
+    "Distant Horizons — это мод, который позволяет вам видеть дальше, чем стандартное расстояние прорисовки в Minecraft. Он делает это, создавая уровни с более низкой детализацией мира за пределами стандартного расстояния прорисовки и отображая их вместо стандартных чанков."
 }

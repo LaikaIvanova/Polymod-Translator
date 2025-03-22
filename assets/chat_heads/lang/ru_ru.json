@@ -1,28 +1,54 @@
 ﻿{
-  "text.autoconfig.chat_heads.title": "Chat Heads",
-  "text.autoconfig.chat_heads.option.offsetNonPlayerText": "Сдвигать текст не-игроков",
-  "text.autoconfig.chat_heads.option.offsetNonPlayerText.@Tooltip": "Выравнивает весь текст в одну линию\nВлияет только на рендеринг \"Перед строкой\"",
-  "text.autoconfig.chat_heads.option.explanation": "UUID или эвристика",
-  "text.autoconfig.chat_heads.option.explanation.@Tooltip": "Обычно серверы указывают, кто отправил сообщение, т.е. UUID отправителя.\nОднако многие серверы этого не делают, они могут даже отправлять неверные UUID.\nВ этом случае мы используем эвристику, т.е. угадываем отправителя по\nсодержимому сообщения. Эта эвристика не идеальна и может неправильно\nназначать головы.",
-  "text.autoconfig.chat_heads.option.renderPosition": "Позиция рендеринга",
-  "text.autoconfig.chat_heads.option.renderPosition.@Tooltip": "Где будут рендериться головы игроков\n\nОбратите внимание, что \"Перед именем\" может быть несовместимо с некоторыми модами.\nДля Caxton и Modern UI автоматически используется \"Перед строкой\".",
-  "text.autoconfig.chat_heads.option.renderPosition.BEFORE_LINE": "Перед строкой",
-  "text.autoconfig.chat_heads.option.renderPosition.BEFORE_NAME": "Перед именем",
-  "text.autoconfig.chat_heads.option.senderDetection": "Определение отправителя",
-  "text.autoconfig.chat_heads.option.senderDetection.@Tooltip": "Для большинства серверов работает \"UUID и эвристика\".\nЕсли сервер отправляет неверные UUID, необходимо использовать \"Только эвристика\".",
-  "text.autoconfig.chat_heads.option.senderDetection.UUID_ONLY": "Только UUID",
-  "text.autoconfig.chat_heads.option.senderDetection.UUID_AND_HEURISTIC": "UUID и эвристика",
-  "text.autoconfig.chat_heads.option.senderDetection.HEURISTIC_ONLY": "Только эвристика",
-  "text.autoconfig.chat_heads.option.smartHeuristics": "Умная эвристика",
-  "text.autoconfig.chat_heads.option.smartHeuristics.@Tooltip": "Отключает эвристику, если сервер отправляет UUID.\n(Применяется к определению отправителя \"UUID и эвристика\")",
-  "text.autoconfig.chat_heads.option.handleSystemMessages": "Обрабатывать системные сообщения",
-  "text.autoconfig.chat_heads.option.handleSystemMessages.@Tooltip": "Можно ли добавлять головы к \"чистым\" серверным сообщениям.\nУчтите, что многие серверы (например, с плагином FreedomChat)\nпреобразуют сообщения игроков в серверные сообщения!\nОтключайте эту опцию только если понимаете, что делаете!",
-  "text.autoconfig.chat_heads.option.nameAliases": "Псевдонимы",
-  "text.autoconfig.chat_heads.option.nameAliases.@Tooltip": "Некоторые серверы разрешают использовать псевдонимы, которые не могут быть автоматически назначены.\nЗдесь псевдонимы можно назначить вручную следующим образом:\nПсевдоним -> Имя профиля",
-  "text.chat_heads.config.error.title": "Не удалось открыть меню конфигурации",
-  "text.chat_heads.config.error.no_cloth_config": "Cloth Config не установлен!",
-  "text.chat_heads.config.error.cloth_config_curseforge_link": "Открыть страницу Cloth Config на CurseForge",
-  "text.chat_heads.config.error.cloth_config_modrinth_link": "Открыть страницу Cloth Config на Modrinth",
-  "modmenu.summaryTranslation.chat_heads": "Видимые головы игроков в чате.",
-  "modmenu.descriptionTranslation.chat_heads": "Добавляет видимые головы игроков к сообщениям в чате рядом с именем отправителя."
+  "text.autoconfig.chat_heads.title":
+    "Chat Heads",
+  "text.autoconfig.chat_heads.option.offsetNonPlayerText":
+    "Сдвигать текст не-игроков",
+  "text.autoconfig.chat_heads.option.offsetNonPlayerText.@Tooltip":
+    "Выравнивает весь текст в одну линию\nВлияет только на рендеринг \"Перед строкой\"",
+  "text.autoconfig.chat_heads.option.explanation":
+    "UUID или эвристика",
+  "text.autoconfig.chat_heads.option.explanation.@Tooltip":
+    "Обычно серверы указывают, кто отправил сообщение, т.е. UUID отправителя.\nОднако многие серверы этого не делают, они могут даже отправлять неверные UUID.\nВ этом случае мы используем эвристику, т.е. угадываем отправителя по\nсодержимому сообщения. Эта эвристика не идеальна и может неправильно\nназначать головы.",
+  "text.autoconfig.chat_heads.option.renderPosition":
+    "Позиция рендеринга",
+  "text.autoconfig.chat_heads.option.renderPosition.@Tooltip":
+    "Где будут рендериться головы игроков\n\nОбратите внимание, что \"Перед именем\" может быть несовместимо с некоторыми модами.\nДля Caxton и Modern UI автоматически используется \"Перед строкой\".",
+  "text.autoconfig.chat_heads.option.renderPosition.BEFORE_LINE":
+    "Перед строкой",
+  "text.autoconfig.chat_heads.option.renderPosition.BEFORE_NAME":
+    "Перед именем",
+  "text.autoconfig.chat_heads.option.senderDetection":
+    "Определение отправителя",
+  "text.autoconfig.chat_heads.option.senderDetection.@Tooltip":
+    "Для большинства серверов работает \"UUID и эвристика\".\nЕсли сервер отправляет неверные UUID, необходимо использовать \"Только эвристика\".",
+  "text.autoconfig.chat_heads.option.senderDetection.UUID_ONLY":
+    "Только UUID",
+  "text.autoconfig.chat_heads.option.senderDetection.UUID_AND_HEURISTIC":
+    "UUID и эвристика",
+  "text.autoconfig.chat_heads.option.senderDetection.HEURISTIC_ONLY":
+    "Только эвристика",
+  "text.autoconfig.chat_heads.option.smartHeuristics":
+    "Умная эвристика",
+  "text.autoconfig.chat_heads.option.smartHeuristics.@Tooltip":
+    "Отключает эвристику, если сервер отправляет UUID.\n(Применяется к определению отправителя \"UUID и эвристика\")",
+  "text.autoconfig.chat_heads.option.handleSystemMessages":
+    "Обрабатывать системные сообщения",
+  "text.autoconfig.chat_heads.option.handleSystemMessages.@Tooltip":
+    "Можно ли добавлять головы к \"чистым\" серверным сообщениям.\nУчтите, что многие серверы (например, с плагином FreedomChat)\nпреобразуют сообщения игроков в серверные сообщения!\nОтключайте эту опцию только если понимаете, что делаете!",
+  "text.autoconfig.chat_heads.option.nameAliases":
+    "Псевдонимы",
+  "text.autoconfig.chat_heads.option.nameAliases.@Tooltip":
+    "Некоторые серверы разрешают использовать псевдонимы, которые не могут быть автоматически назначены.\nЗдесь псевдонимы можно назначить вручную следующим образом:\nПсевдоним -> Имя профиля",
+  "text.chat_heads.config.error.title":
+    "Не удалось открыть меню конфигурации",
+  "text.chat_heads.config.error.no_cloth_config":
+    "Cloth Config не установлен!",
+  "text.chat_heads.config.error.cloth_config_curseforge_link":
+    "Открыть страницу Cloth Config на CurseForge",
+  "text.chat_heads.config.error.cloth_config_modrinth_link":
+    "Открыть страницу Cloth Config на Modrinth",
+  "modmenu.summaryTranslation.chat_heads":
+    "Видимые головы игроков в чате.",
+  "modmenu.descriptionTranslation.chat_heads":
+    "Добавляет видимые головы игроков к сообщениям в чате рядом с именем отправителя."
 }

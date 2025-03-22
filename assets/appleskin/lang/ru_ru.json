@@ -1,25 +1,48 @@
 ﻿{
-  "text.autoconfig.appleskin.title": "AppleSkin",
-  "text.autoconfig.appleskin.option.showFoodValuesInTooltip": "Показывать значения еды в подсказке",
-  "text.autoconfig.appleskin.option.showFoodValuesInTooltip.@Tooltip": "Если включено, показывает значения голода и насыщения еды в подсказке при удерживании SHIFT",
-  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways": "Всегда показывать значения еды в подсказке",
-  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways.@Tooltip": "Если включено, показывает значения голода и насыщения еды в подсказке автоматически (без необходимости удерживать SHIFT)",
-  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay": "Показывать восстановленный голод от удерживаемой еды",
-  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay.@Tooltip": "Если включено, показывает голод (и насыщение, если showSaturationHudOverlay включено), который будет восстановлен едой, которую вы держите",
-  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand": "Показывать оверлеи для еды в левой руке",
-  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand.@Tooltip": "Если включено, включает оверлеи голода/насыщения/здоровья для еды в вашей левой руке",
-  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay": "Показывать оценочный оверлей здоровья",
-  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay.@Tooltip": "Если включено, показывает оценочное восстановление здоровья от еды на шкале здоровья",
-  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay": "Показывать подложку усталости",
-  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay.@Tooltip": "Если включено, показывает вашу усталость в виде полосы прогресса за шкалой голода",
-  "text.autoconfig.appleskin.option.showSaturationHudOverlay": "Показывать оверлей насыщения",
-  "text.autoconfig.appleskin.option.showSaturationHudOverlay.@Tooltip": "Если включено, показывает ваш текущий уровень насыщения поверх шкалы голода",
-  "text.autoconfig.appleskin.option.showFoodDebugInfo": "Показывать информацию о еде в режиме отладки",
-  "text.autoconfig.appleskin.option.showFoodDebugInfo.@Tooltip": "Если включено, показывает ваш уровень голода, насыщения и усталости в режиме отладки",
-  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay": "Анимировать HUD иконки в стиле Minecraft",
-  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay.@Tooltip": "Если включено, оверлей здоровья/голода будет трястись, чтобы соответствовать анимациям иконок Minecraft",
-  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha": "Максимальная альфа вспышки HUD-иконок",
-  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip": "Насколько видимыми должны быть вспыхивающие HUD-иконки",
-  "modmenu.summaryTranslation.appleskin": "Добавляет дополнительные элементы HUD для еды.",
-  "modmenu.descriptionTranslation.appleskin": "Добавляет дополнительные элементы HUD для еды, например, индикатор насыщения."
+  "text.autoconfig.appleskin.title":
+    "AppleSkin",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltip":
+    "Показывать значения еды в подсказке",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltip.@Tooltip":
+    "Если включено, показывает значения голода и насыщения еды в подсказке при удерживании SHIFT",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways":
+    "Всегда показывать значения еды в подсказке",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways.@Tooltip":
+    "Если включено, показывает значения голода и насыщения еды в подсказке автоматически (без необходимости удерживать SHIFT)",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay":
+    "Показывать восстановленный голод от удерживаемой еды",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay.@Tooltip":
+    "Если включено, показывает голод (и насыщение, если showSaturationHudOverlay включено), который будет восстановлен едой, которую вы держите",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand":
+    "Показывать оверлеи для еды в левой руке",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand.@Tooltip":
+    "Если включено, включает оверлеи голода/насыщения/здоровья для еды в вашей левой руке",
+  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay":
+    "Показывать оценочный оверлей здоровья",
+  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay.@Tooltip":
+    "Если включено, показывает оценочное восстановление здоровья от еды на шкале здоровья",
+  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay":
+    "Показывать подложку усталости",
+  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay.@Tooltip":
+    "Если включено, показывает вашу усталость в виде полосы прогресса за шкалой голода",
+  "text.autoconfig.appleskin.option.showSaturationHudOverlay":
+    "Показывать оверлей насыщения",
+  "text.autoconfig.appleskin.option.showSaturationHudOverlay.@Tooltip":
+    "Если включено, показывает ваш текущий уровень насыщения поверх шкалы голода",
+  "text.autoconfig.appleskin.option.showFoodDebugInfo":
+    "Показывать информацию о еде в режиме отладки",
+  "text.autoconfig.appleskin.option.showFoodDebugInfo.@Tooltip":
+    "Если включено, показывает ваш уровень голода, насыщения и усталости в режиме отладки",
+  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay":
+    "Анимировать HUD иконки в стиле Minecraft",
+  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay.@Tooltip":
+    "Если включено, оверлей здоровья/голода будет трястись, чтобы соответствовать анимациям иконок Minecraft",
+  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha":
+    "Максимальная альфа вспышки HUD-иконок",
+  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip":
+    "Насколько видимыми должны быть вспыхивающие HUD-иконки",
+  "modmenu.summaryTranslation.appleskin":
+    "Добавляет дополнительные элементы HUD для еды.",
+  "modmenu.descriptionTranslation.appleskin":
+    "Добавляет дополнительные элементы HUD для еды, например, индикатор насыщения."
 }

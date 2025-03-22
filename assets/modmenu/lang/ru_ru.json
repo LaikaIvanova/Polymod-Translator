@@ -1,170 +1,340 @@
 ﻿{
-  "category.modmenu.name": "Mod-Меню",
-  "key.modmenu.open_menu": "Открыть Mod-Меню",
-  "modmenu.title": "Моды",
-  "modmenu.nameTranslation.modmenu": "Mod-Меню",
-  "modmenu.descriptionTranslation.modmenu": "Добавляет меню модов, которое перечисляет установленные моды.",
-  "modmenu.loaded": "(%s загружено)",
-  "modmenu.loaded.short": "(%s)",
-  "modmenu.loaded.69.secret": "(%s загружено...nice)",
-  "modmenu.loaded.420.secret": "(%s загружено...Feuer frei)",
-  "modmenu.mods.n": " (%s модов)",
-  "modmenu.mods.1": " (%s мод)",
-  "modmenu.mods.69.secret": " (%s модов...nice)",
-  "modmenu.mods.420.secret": " (%s модов...Feuer frei)",
-  "modmenu.search": "Искать моды",
-  "modmenu.searchTerms.library": "API библиотека",
-  "modmenu.searchTerms.patchwork": "patchwork forge fml",
-  "modmenu.searchTerms.modpack": "Modpack пакет",
-  "modmenu.searchTerms.deprecated": "устаревший старый",
-  "modmenu.searchTerms.clientside": "clientside gameside",
-  "modmenu.searchTerms.configurable": "конфигурации конфиги настраивать настраиваемые опции",
-  "modmenu.searchTerms.hasUpdate": "обновления версия",
-  "modmenu.toggleFilterOptions": "Переключить параметры фильтра",
-  "modmenu.showingMods.n": "Показано %s модов",
-  "modmenu.showingMods.1": "Показан один мод",
-  "modmenu.showingLibraries.n": "Показано %s библиотек",
-  "modmenu.showingLibraries.1": "Показана одна библиотека",
-  "modmenu.showingModsLibraries.n.n": "Показано %s модов и %s библиотек",
-  "modmenu.showingModsLibraries.n.1": "Показано %s модов и одна библиотека",
-  "modmenu.showingModsLibraries.1.n": "Показан один мод и %s библиотек",
-  "modmenu.showingModsLibraries.1.1": "Показан один мод и одна библиотека",
-  "modmenu.badge.library": "Библиотека",
-  "modmenu.badge.clientsideOnly": "Клиент",
-  "modmenu.badge.deprecated": "Устаревший",
-  "modmenu.badge.forge": "Forge",
-  "modmenu.badge.modpack": "Modpack",
-  "modmenu.badge.minecraft": "Minecraft",
-  "modmenu.dropInfo.line1": "Перетащите файлы в это",
-  "modmenu.dropInfo.line2": "окно, чтобы добавить моды",
-  "modmenu.dropConfirm": "Хотите ли вы скопировать следующие моды прямо в папку модов?",
-  "modmenu.dropSuccessful.line1": "Моды успешно скопированы",
-  "modmenu.dropSuccessful.line2": "Перезапустите игру, чтобы загрузить моды",
-  "modmenu.modIdToolTip": "ID мода: %s",
-  "modmenu.authorPrefix": "От %s",
-  "modmenu.config": "Изменить конфигурацию",
-  "modmenu.configure": "Настроить...",
-  "modmenu.configure.error": "Не удалось загрузить экран конфигурации для '%s'\nПожалуйста, сообщите об этом '%s', а не Mod Menu",
-  "modmenu.website": "Вебсайт",
-  "modmenu.issues": "Проблемы",
-  "modmenu.credits": "Кредиты:",
-  "modmenu.viewCredits": "Показать кредиты",
-  "modmenu.license": "Лицензия:",
-  "modmenu.links": "Ссылки:",
-  "modmenu.source": "Источник",
-  "modmenu.hasUpdate": "Доступно обновление:",
-  "modmenu.experimental": "(Mod Menu Update checker является экспериментальным!)",
-  "modmenu.childHasUpdate": "Зависимость этого мода имеет доступное обновление.",
-  "modmenu.updateText": "v%s на %s",
-  "modmenu.install_version": "Установить версию %s",
-  "modmenu.downloadLink": "Скачать",
-  "modmenu.buymeacoffee": "Купи мне кофе",
-  "modmenu.coindrop": "Coindrop",
-  "modmenu.crowdin": "Crowdin",
-  "modmenu.curseforge": "CurseForge",
-  "modmenu.discord": "Discord",
-  "modmenu.donate": "Пожертвовать",
-  "modmenu.flattr": "Flattr",
-  "modmenu.github_releases": "GitHub релизы",
-  "modmenu.github_sponsors": "GitHub спонсоры",
-  "modmenu.kofi": "Ko-fi",
-  "modmenu.liberapay": "Liberapay",
-  "modmenu.mastodon": "Mastodon",
-  "modmenu.modrinth": "Modrinth",
-  "modmenu.opencollective": "Open Collective",
-  "modmenu.patreon": "Patreon",
-  "modmenu.paypal": "PayPal",
-  "modmenu.reddit": "Reddit",
-  "modmenu.twitch": "Twitch",
-  "modmenu.twitter": "Twitter",
-  "modmenu.wiki": "Wiki",
-  "modmenu.youtube": "YouTube",
-  "modmenu.credits.role.author": "Авторы",
-  "modmenu.credits.role.contributor": "Участники",
-  "modmenu.credits.role.translator": "Переводчики",
-  "modmenu.credits.role.maintainer": "Поддерживающие",
-  "modmenu.credits.role.playtester": "Тестировщики",
-  "modmenu.credits.role.illustrator": "Иллюстраторы",
-  "modmenu.credits.role.owner": "Владельцы",
-  "modmenu.modsFolder": "Открыть папку модов",
-  "modmenu.configsFolder": "Открыть папку конфигураций",
-  "modmenu.nameTranslation.minecraft": "Minecraft",
-  "modmenu.descriptionTranslation.minecraft": "Основная игра.",
-  "modmenu.nameTranslation.java": "Java",
-  "modmenu.descriptionTranslation.java": "Среда выполнения Java.",
-  "modmenu.javaDistributionName": "Работает на: %s",
-  "modmenu.options": "Опции Mod-Меню",
-  "option.modmenu.sorting": "Сортировка",
-  "option.modmenu.sorting.ascending": "А-Я",
-  "option.modmenu.sorting.descending": "Я-А",
-  "option.modmenu.sorting.has_update": "Есть обновление",
-  "option.modmenu.show_libraries": "Библиотеки",
-  "option.modmenu.show_libraries.true": "Видимые",
-  "option.modmenu.show_libraries.false": "Скрытые",
-  "option.modmenu.hide_config_buttons": "Кнопки конфигурации",
-  "option.modmenu.hide_config_buttons.true": "Скрытые",
-  "option.modmenu.hide_config_buttons.false": "Видимые",
-  "option.modmenu.hide_badges": "Значки модов",
-  "option.modmenu.hide_badges.true": "Скрытые",
-  "option.modmenu.hide_badges.false": "Видимые",
-  "option.modmenu.compact_list": "Список",
-  "option.modmenu.compact_list.true": "Компактный",
-  "option.modmenu.compact_list.false": "Обычный",
-  "option.modmenu.hide_mod_links": "Ссылки модов",
-  "option.modmenu.hide_mod_links.true": "Скрытые",
-  "option.modmenu.hide_mod_links.false": "Видимые",
-  "option.modmenu.hide_mod_credits": "Кредиты модов",
-  "option.modmenu.hide_mod_credits.true": "Скрытые",
-  "option.modmenu.hide_mod_credits.false": "Видимые",
-  "option.modmenu.hide_mod_license": "Лицензии модов",
-  "option.modmenu.hide_mod_license.true": "Скрытые",
-  "option.modmenu.hide_mod_license.false": "Видимые",
-  "option.modmenu.count_children": "Дочерние моды",
-  "option.modmenu.count_children.true": "Считать",
-  "option.modmenu.count_children.false": "Не считать",
-  "option.modmenu.count_libraries": "Библиотеки",
-  "option.modmenu.count_libraries.true": "Считать",
-  "option.modmenu.count_libraries.false": "Не считать",
-  "option.modmenu.count_hidden_mods": "Скрытые моды",
-  "option.modmenu.count_hidden_mods.true": "Считать",
-  "option.modmenu.count_hidden_mods.false": "Не считать",
-  "option.modmenu.mod_count_location": "Расположение количества модов",
-  "option.modmenu.mod_count_location.title_screen": "Угол заголовка",
-  "option.modmenu.mod_count_location.mods_button": "Кнопка модов",
-  "option.modmenu.mod_count_location.title_screen_and_mods_button": "Оба",
-  "option.modmenu.mod_count_location.none": "Никакие",
-  "option.modmenu.easter_eggs": "Пасхальные яйца",
-  "option.modmenu.easter_eggs.true": "Включены",
-  "option.modmenu.easter_eggs.false": "Отключены",
-  "option.modmenu.mods_button_style": "Стиль кнопки модов",
-  "option.modmenu.mods_button_style.classic": "Под Realms",
-  "option.modmenu.mods_button_style.replace_realms": "Заменить Realms",
-  "option.modmenu.mods_button_style.shrink": "Рядом",
-  "option.modmenu.mods_button_style.icon": "Иконка",
-  "option.modmenu.game_menu_button_style": "Стиль кнопки игрового меню",
-  "option.modmenu.game_menu_button_style.insert": "Вставить",
-  "option.modmenu.game_menu_button_style.replace": "Заменить",
-  "option.modmenu.game_menu_button_style.icon": "Иконка",
-  "option.modmenu.random_java_colors": "Цвет Java",
-  "option.modmenu.random_java_colors.true": "Поставщик",
-  "option.modmenu.random_java_colors.false": "Всегда красный",
-  "option.modmenu.translate_names": "Имена",
-  "option.modmenu.translate_names.true": "Переведены",
-  "option.modmenu.translate_names.false": "Не переведены",
-  "option.modmenu.translate_descriptions": "Описания",
-  "option.modmenu.translate_descriptions.true": "Переведены",
-  "option.modmenu.translate_descriptions.false": "Не переведены",
-  "option.modmenu.update_checker": "Проверка обновлений",
-  "option.modmenu.update_checker.true": "Включена",
-  "option.modmenu.update_checker.false": "Отключена",
-  "option.modmenu.button_update_badge": "Индикатор обновления",
-  "option.modmenu.button_update_badge.true": "Показан",
-  "option.modmenu.button_update_badge.false": "Скрыт",
-  "option.modmenu.quick_configure": "Быстрая настройка",
-  "option.modmenu.quick_configure.true": "Включена",
-  "option.modmenu.quick_configure.false": "Отключена",
-  "option.modmenu.update_channel": "Канал обновлений",
-  "option.modmenu.update_channel.alpha": "Все",
-  "option.modmenu.update_channel.beta": "Релиз и бета",
-  "option.modmenu.update_channel.release": "Релиз"
+  "category.modmenu.name":
+    "Mod-Меню",
+  "key.modmenu.open_menu":
+    "Открыть Mod-Меню",
+  "modmenu.title":
+    "Моды",
+  "modmenu.nameTranslation.modmenu":
+    "Mod-Меню",
+  "modmenu.loaded":
+    "(%s загружено)",
+  "modmenu.loaded.short":
+    "(%s)",
+  "modmenu.loaded.69.secret":
+    "(%s загружено...nice)",
+  "modmenu.loaded.420.secret":
+    "(%s загружено...Feuer frei)",
+  "modmenu.mods.n":
+    " (%s модов)",
+  "modmenu.mods.1":
+    " (%s мод)",
+  "modmenu.mods.69.secret":
+    " (%s модов...nice)",
+  "modmenu.mods.420.secret":
+    " (%s модов...Feuer frei)",
+  "modmenu.search":
+    "Искать моды",
+  "modmenu.searchTerms.library":
+    "API библиотека",
+  "modmenu.searchTerms.patchwork":
+    "patchwork forge fml",
+  "modmenu.searchTerms.modpack":
+    "Modpack пакет",
+  "modmenu.searchTerms.deprecated":
+    "устаревший старый",
+  "modmenu.searchTerms.clientside":
+    "clientside gameside",
+  "modmenu.searchTerms.configurable":
+    "конфигурации конфиги настраивать настраиваемые опции",
+  "modmenu.searchTerms.hasUpdate":
+    "обновления версия",
+  "modmenu.toggleFilterOptions":
+    "Переключить параметры фильтра",
+  "modmenu.showingMods.n":
+    "Показано %s модов",
+  "modmenu.showingMods.1":
+    "Показан один мод",
+  "modmenu.showingLibraries.n":
+    "Показано %s библиотек",
+  "modmenu.showingLibraries.1":
+    "Показана одна библиотека",
+  "modmenu.showingModsLibraries.n.n":
+    "Показано %s модов и %s библиотек",
+  "modmenu.showingModsLibraries.n.1":
+    "Показано %s модов и одна библиотека",
+  "modmenu.showingModsLibraries.1.n":
+    "Показан один мод и %s библиотек",
+  "modmenu.showingModsLibraries.1.1":
+    "Показан один мод и одна библиотека",
+  "modmenu.badge.library":
+    "Библиотека",
+  "modmenu.badge.clientsideOnly":
+    "Клиент",
+  "modmenu.badge.deprecated":
+    "Устаревший",
+  "modmenu.badge.forge":
+    "Forge",
+  "modmenu.badge.modpack":
+    "Modpack",
+  "modmenu.badge.minecraft":
+    "Minecraft",
+  "modmenu.dropInfo.line1":
+    "Перетащите файлы в это",
+  "modmenu.dropInfo.line2":
+    "окно, чтобы добавить моды",
+  "modmenu.dropConfirm":
+    "Хотите ли вы скопировать следующие моды прямо в папку модов?",
+  "modmenu.dropSuccessful.line1":
+    "Моды успешно скопированы",
+  "modmenu.dropSuccessful.line2":
+    "Перезапустите игру, чтобы загрузить моды",
+  "modmenu.modIdToolTip":
+    "ID мода: %s",
+  "modmenu.authorPrefix":
+    "От %s",
+  "modmenu.config":
+    "Изменить конфигурацию",
+  "modmenu.configure":
+    "Настроить...",
+  "modmenu.configure.error":
+    "Не удалось загрузить экран конфигурации для '%s'\nПожалуйста, сообщите об этом '%s', а не Mod Menu",
+  "modmenu.website":
+    "Вебсайт",
+  "modmenu.issues":
+    "Проблемы",
+  "modmenu.credits":
+    "Кредиты:",
+  "modmenu.viewCredits":
+    "Показать кредиты",
+  "modmenu.license":
+    "Лицензия:",
+  "modmenu.links":
+    "Ссылки:",
+  "modmenu.source":
+    "Источник",
+  "modmenu.hasUpdate":
+    "Доступно обновление:",
+  "modmenu.experimental":
+    "(Mod Menu Update checker является экспериментальным!)",
+  "modmenu.childHasUpdate":
+    "Зависимость этого мода имеет доступное обновление.",
+  "modmenu.updateText":
+    "v%s на %s",
+  "modmenu.install_version":
+    "Установить версию %s",
+  "modmenu.downloadLink":
+    "Скачать",
+  "modmenu.buymeacoffee":
+    "Купи мне кофе",
+  "modmenu.coindrop":
+    "Coindrop",
+  "modmenu.crowdin":
+    "Crowdin",
+  "modmenu.curseforge":
+    "CurseForge",
+  "modmenu.discord":
+    "Discord",
+  "modmenu.donate":
+    "Пожертвовать",
+  "modmenu.flattr":
+    "Flattr",
+  "modmenu.github_releases":
+    "GitHub релизы",
+  "modmenu.github_sponsors":
+    "GitHub спонсоры",
+  "modmenu.kofi":
+    "Ko-fi",
+  "modmenu.liberapay":
+    "Liberapay",
+  "modmenu.mastodon":
+    "Mastodon",
+  "modmenu.modrinth":
+    "Modrinth",
+  "modmenu.opencollective":
+    "Open Collective",
+  "modmenu.patreon":
+    "Patreon",
+  "modmenu.paypal":
+    "PayPal",
+  "modmenu.reddit":
+    "Reddit",
+  "modmenu.twitch":
+    "Twitch",
+  "modmenu.twitter":
+    "Twitter",
+  "modmenu.wiki":
+    "Wiki",
+  "modmenu.youtube":
+    "YouTube",
+  "modmenu.credits.role.author":
+    "Авторы",
+  "modmenu.credits.role.contributor":
+    "Участники",
+  "modmenu.credits.role.translator":
+    "Переводчики",
+  "modmenu.credits.role.maintainer":
+    "Поддерживающие",
+  "modmenu.credits.role.playtester":
+    "Тестировщики",
+  "modmenu.credits.role.illustrator":
+    "Иллюстраторы",
+  "modmenu.credits.role.owner":
+    "Владельцы",
+  "modmenu.modsFolder":
+    "Открыть папку модов",
+  "modmenu.configsFolder":
+    "Открыть папку конфигураций",
+  "modmenu.nameTranslation.minecraft":
+    "Minecraft",
+  "modmenu.descriptionTranslation.minecraft":
+    "Основная игра.",
+  "modmenu.nameTranslation.java":
+    "Java",
+  "modmenu.descriptionTranslation.java":
+    "Среда выполнения Java.",
+  "modmenu.javaDistributionName":
+    "Работает на: %s",
+  "modmenu.options":
+    "Опции Mod-Меню",
+  "option.modmenu.sorting":
+    "Сортировка",
+  "option.modmenu.sorting.ascending":
+    "А-Я",
+  "option.modmenu.sorting.descending":
+    "Я-А",
+  "option.modmenu.sorting.has_update":
+    "Есть обновление",
+  "option.modmenu.show_libraries":
+    "Библиотеки",
+  "option.modmenu.show_libraries.true":
+    "Видимые",
+  "option.modmenu.show_libraries.false":
+    "Скрытые",
+  "option.modmenu.hide_config_buttons":
+    "Кнопки конфигурации",
+  "option.modmenu.hide_config_buttons.true":
+    "Скрытые",
+  "option.modmenu.hide_config_buttons.false":
+    "Видимые",
+  "option.modmenu.hide_badges":
+    "Значки модов",
+  "option.modmenu.hide_badges.true":
+    "Скрытые",
+  "option.modmenu.hide_badges.false":
+    "Видимые",
+  "option.modmenu.compact_list":
+    "Список",
+  "option.modmenu.compact_list.true":
+    "Компактный",
+  "option.modmenu.compact_list.false":
+    "Обычный",
+  "option.modmenu.hide_mod_links":
+    "Ссылки модов",
+  "option.modmenu.hide_mod_links.true":
+    "Скрытые",
+  "option.modmenu.hide_mod_links.false":
+    "Видимые",
+  "option.modmenu.hide_mod_credits":
+    "Кредиты модов",
+  "option.modmenu.hide_mod_credits.true":
+    "Скрытые",
+  "option.modmenu.hide_mod_credits.false":
+    "Видимые",
+  "option.modmenu.hide_mod_license":
+    "Лицензии модов",
+  "option.modmenu.hide_mod_license.true":
+    "Скрытые",
+  "option.modmenu.hide_mod_license.false":
+    "Видимые",
+  "option.modmenu.count_children":
+    "Дочерние моды",
+  "option.modmenu.count_children.true":
+    "Считать",
+  "option.modmenu.count_children.false":
+    "Не считать",
+  "option.modmenu.count_libraries":
+    "Библиотеки",
+  "option.modmenu.count_libraries.true":
+    "Считать",
+  "option.modmenu.count_libraries.false":
+    "Не считать",
+  "option.modmenu.count_hidden_mods":
+    "Скрытые моды",
+  "option.modmenu.count_hidden_mods.true":
+    "Считать",
+  "option.modmenu.count_hidden_mods.false":
+    "Не считать",
+  "option.modmenu.mod_count_location":
+    "Расположение количества модов",
+  "option.modmenu.mod_count_location.title_screen":
+    "Угол заголовка",
+  "option.modmenu.mod_count_location.mods_button":
+    "Кнопка модов",
+  "option.modmenu.mod_count_location.title_screen_and_mods_button":
+    "Оба",
+  "option.modmenu.mod_count_location.none":
+    "Никакие",
+  "option.modmenu.easter_eggs":
+    "Пасхальные яйца",
+  "option.modmenu.easter_eggs.true":
+    "Включены",
+  "option.modmenu.easter_eggs.false":
+    "Отключены",
+  "option.modmenu.mods_button_style":
+    "Стиль кнопки модов",
+  "option.modmenu.mods_button_style.classic":
+    "Под Realms",
+  "option.modmenu.mods_button_style.replace_realms":
+    "Заменить Realms",
+  "option.modmenu.mods_button_style.shrink":
+    "Рядом",
+  "option.modmenu.mods_button_style.icon":
+    "Иконка",
+  "option.modmenu.game_menu_button_style":
+    "Стиль кнопки игрового меню",
+  "option.modmenu.game_menu_button_style.insert":
+    "Вставить",
+  "option.modmenu.game_menu_button_style.replace":
+    "Заменить",
+  "option.modmenu.game_menu_button_style.icon":
+    "Иконка",
+  "option.modmenu.random_java_colors":
+    "Цвет Java",
+  "option.modmenu.random_java_colors.true":
+    "Поставщик",
+  "option.modmenu.random_java_colors.false":
+    "Всегда красный",
+  "option.modmenu.translate_names":
+    "Имена",
+  "option.modmenu.translate_names.true":
+    "Переведены",
+  "option.modmenu.translate_names.false":
+    "Не переведены",
+  "option.modmenu.translate_descriptions":
+    "Описания",
+  "option.modmenu.translate_descriptions.true":
+    "Переведены",
+  "option.modmenu.translate_descriptions.false":
+    "Не переведены",
+  "option.modmenu.update_checker":
+    "Проверка обновлений",
+  "option.modmenu.update_checker.true":
+    "Включена",
+  "option.modmenu.update_checker.false":
+    "Отключена",
+  "option.modmenu.button_update_badge":
+    "Индикатор обновления",
+  "option.modmenu.button_update_badge.true":
+    "Показан",
+  "option.modmenu.button_update_badge.false":
+    "Скрыт",
+  "option.modmenu.quick_configure":
+    "Быстрая настройка",
+  "option.modmenu.quick_configure.true":
+    "Включена",
+  "option.modmenu.quick_configure.false":
+    "Отключена",
+  "option.modmenu.update_channel":
+    "Канал обновлений",
+  "option.modmenu.update_channel.alpha":
+    "Все",
+  "option.modmenu.update_channel.beta":
+    "Релиз и бета",
+  "option.modmenu.update_channel.release":
+    "Релиз",
+  "modmenu.summaryTranslation.languagereload":
+    "Adds a mod menu to view the list of mods you have installed.",
+  "modmenu.descriptionTranslation.modmenu":
+    "Добавляет меню модов, которое перечисляет установленные моды."
 }
