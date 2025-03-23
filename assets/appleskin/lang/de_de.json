@@ -4,9 +4,9 @@
   "text.autoconfig.appleskin.option.showFoodValuesInTooltip":
     "Zeige Nährwerte in Tooltip",
   "text.autoconfig.appleskin.option.showFoodValuesInTooltip.@Tooltip":
-    "If true, shows the hunger and saturation values of food in its tooltip while holding SHIFT",
+    "Zeigt die Hunger- und Sättigungswerte im Tooltip an, während SHIFT gehalten wird",
   "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways":
-    "Zeige immer Nährwerte in Tooltip",
+    "Zeige immer Hunger- und Sättigungswerte im Tooltip an",
   "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways.@Tooltip":
     "If true, shows the hunger and saturation values of food in its tooltip automatically (without needing to hold SHIFT)",
   "text.autoconfig.appleskin.option.showFoodValuesHudOverlay":
