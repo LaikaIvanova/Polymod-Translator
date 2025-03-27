@@ -100,7 +100,7 @@
   "distanthorizons.config.client.advanced.graphics.quality.horizontalScale.@tooltip":
     "How quickly LODs drop off in quality.\n\nLarger numbers will improve how distant terrain looks\nbut will increase memory and GPU usage.",
   "distanthorizons.config.client.advanced.graphics.quality.transparency":
-    "Transparency",
+    "Transparenz",
   "distanthorizons.config.client.advanced.graphics.quality.blocksToIgnore":
     "Blocks To Ignore",
   "distanthorizons.config.client.advanced.graphics.quality.blocksToIgnore.@tooltip":
