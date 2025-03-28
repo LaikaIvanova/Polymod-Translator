@@ -824,7 +824,7 @@
   "distanthorizons.config.enum.EDhApiGlProfileMode.ANY":
     "Any",
   "distanthorizons.config.enum.EDhApiLoggerMode.DISABLED":
-    "Disabled",
+    "Ausgeschaltet",
   "distanthorizons.config.enum.EDhApiLoggerMode.LOG_ALL_TO_FILE":
     "File: All, Chat: Off",
   "distanthorizons.config.enum.EDhApiLoggerMode.LOG_ERROR_TO_CHAT":
