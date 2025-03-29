@@ -26,7 +26,7 @@
   "distanthorizons.updater.text2":
     "§fDo you want to update from %s§f to %s§f?",
   "distanthorizons.updater.later":
-    "Not now",
+    "Nicht jetzt",
   "distanthorizons.updater.never":
     "Don't show again",
   "distanthorizons.updater.update":
@@ -100,7 +100,7 @@
   "distanthorizons.config.client.advanced.graphics.quality.horizontalScale.@tooltip":
     "How quickly LODs drop off in quality.\n\nLarger numbers will improve how distant terrain looks\nbut will increase memory and GPU usage.",
   "distanthorizons.config.client.advanced.graphics.quality.transparency":
-    "Transparency",
+    "Transparenz",
   "distanthorizons.config.client.advanced.graphics.quality.blocksToIgnore":
     "Blocks To Ignore",
   "distanthorizons.config.client.advanced.graphics.quality.blocksToIgnore.@tooltip":
@@ -824,7 +824,7 @@
   "distanthorizons.config.enum.EDhApiGlProfileMode.ANY":
     "Any",
   "distanthorizons.config.enum.EDhApiLoggerMode.DISABLED":
-    "Disabled",
+    "Ausgeschaltet",
   "distanthorizons.config.enum.EDhApiLoggerMode.LOG_ALL_TO_FILE":
     "File: All, Chat: Off",
   "distanthorizons.config.enum.EDhApiLoggerMode.LOG_ERROR_TO_CHAT":
