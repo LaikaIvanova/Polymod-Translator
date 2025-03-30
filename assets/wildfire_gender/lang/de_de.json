@@ -124,11 +124,11 @@
   "wildfire_gender.first_time_setup.description":
     "Möchtest du die Cloud Synchronizierung aktivieren? Dies erlaubt es anderen Spielern mit der Mod deine Geschlechtseinstellungen zu sehen.",
   "wildfire_gender.first_time_setup.notice":
-    "Dies kannst du später in den Einstellungen jederzeit ändern.",
+    "Kann später geändert werden.",
   "wildfire_gender.first_time_setup.enable":
-    "Aktiviere Cloud Synchronizierung",
+    "Ja",
   "wildfire_gender.first_time_setup.disable":
-    "Deaktiviere Cloud Synchronizierung",
+    "Nein",
   "wildfire_gender.cloud_settings":
     "Synchronizierungs Einstellungen",
   "wildfire_gender.cloud.tooltip":
