@@ -230,7 +230,7 @@
   "jm.colorpalette.villager_label": 
     "Villager Label",
   "jm.colorpalette.world": 
-    "World",
+    "Welt",
   "jm.common.action_bar.waypoint_rendering.message": 
     "JourneyMap: Waypoint rendering %1$s§f press [%2$s] to %3$s.",
   "jm.common.action_bar.waypoint_rendering.toggle.disabled": 
@@ -304,7 +304,7 @@
   "jm.common.block_flag.force": 
     "Force",
   "jm.common.block_flag.grass": 
-    "Grass",
+    "Gras",
   "jm.common.block_flag.ignore": 
     "Ignore",
   "jm.common.block_flag.noShadow": 
@@ -360,7 +360,7 @@
   "jm.common.day": 
     "Tag",
   "jm.common.delete": 
-    "Delete",
+    "Löschen",
   "jm.common.delete_region_status_done": 
     "Region deleted.",
   "jm.common.delete_region_status_error": 
@@ -456,7 +456,7 @@
   "jm.common.grid_style": 
     "Style",
   "jm.common.grid_style_region": 
-    "Regions",
+    "Regionen",
   "jm.common.grid_style_region.tooltip": 
     "Show Region Outlines",
   "jm.common.grid_style_squares": 
