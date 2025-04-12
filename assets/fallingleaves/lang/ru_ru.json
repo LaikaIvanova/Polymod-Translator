@@ -1,0 +1,116 @@
+{
+  "text.autoconfig.fallingleaves2.title":
+    "Падающие листья",
+  "text.autoconfig.fallingleaves2.option.enabled":
+    "Включено",
+  "text.autoconfig.fallingleaves2.option.alwaysUseVanillaParticles":
+    "Всегда использовать \"ванильную\" реализацию частиц",
+  "text.autoconfig.fallingleaves2.option.alwaysUseVanillaParticles.@Tooltip":
+    "Обратите внимание, что ванильные частицы не зависят от:\nразмера листьев, продолжительности жизни, необходимого вертикального пространства и ветра.",
+  "text.autoconfig.fallingleaves2.option.useVanillaTextures":
+    "Использовать ванильные текстуры",
+  "text.autoconfig.fallingleaves2.option.useVanillaTextures.@Tooltip":
+    "Это относится к \"обычной\" реализации частиц",
+  "text.autoconfig.fallingleaves2.option.leafSize":
+    "Размер листьев",
+  "text.autoconfig.fallingleaves2.option.leafLifespan":
+    "Продолжительность жизни листьев (в тиках)",
+  "text.autoconfig.fallingleaves2.option.leafLifespan.@Tooltip":
+    "20 тиков примерно равны 1 секунде",
+  "text.autoconfig.fallingleaves2.option.leafSpawnRate":
+    "Частота появления листьев",
+  "text.autoconfig.fallingleaves2.option.leafSpawnRate.@Tooltip":
+    "Сколько листьев появляется со временем",
+  "text.autoconfig.fallingleaves2.option.cherrySpawnRate":
+    "Частота появления лепестков сакуры",
+  "text.autoconfig.fallingleaves2.option.cherrySpawnRate.@Tooltip":
+    "Изменяет частоту появления лепестков сакуры в процентах, например:\n5 = 50% (половина частоты)\n10 = 100% (оригинальная частота)\n20 = 200% (двойная частота)",
+  "text.autoconfig.fallingleaves2.option.paleOakSpawnRate":
+    "Частота появления бледных дубовых листьев",
+  "text.autoconfig.fallingleaves2.option.paleOakSpawnRate.@Tooltip":
+    "Изменяет частоту появления бледных дубовых листьев в процентах, например:\n5 = 50% (половина частоты)\n10 = 100% (оригинальная частота)\n20 = 200% (двойная частота)",
+  "text.autoconfig.fallingleaves2.option.coniferLeafSpawnRate":
+    "Частота появления хвойных листьев",
+  "text.autoconfig.fallingleaves2.option.coniferLeafSpawnRate.@Tooltip":
+    "Сколько хвойных листьев появляется со временем",
+  "text.autoconfig.fallingleaves2.option.snowflakeSpawnRate":
+    "Частота появления снежинок",
+  "text.autoconfig.fallingleaves2.option.snowflakeSpawnRate.@Tooltip":
+    "Сколько снежинок падает с заснеженных деревьев со временем",
+  "text.autoconfig.fallingleaves2.option.dropFromPlayerPlacedBlocks":
+    "Падение листьев с блоков, размещенных игроком?",
+  "text.autoconfig.fallingleaves2.option.leavesOnBlockHit":
+    "Падение листьев при ударе по блоку?",
+  "text.autoconfig.fallingleaves2.option.minimumFreeSpaceBelow":
+    "Необходимое вертикальное пространство (в полублоках)",
+  "text.autoconfig.fallingleaves2.option.minimumFreeSpaceBelow.@Tooltip":
+    "Листья падают только с блока, если под ним достаточно свободного пространства",
+  "text.autoconfig.fallingleaves2.option.windEnabled":
+    "Включить ветер?",
+  "text.autoconfig.fallingleaves2.option.windEnabled.@Tooltip":
+    "Ветер всегда присутствует, но эта опция позволяет сделать его сильнее",
+  "text.autoconfig.fallingleaves2.option.windlessDimensions":
+    "Измерения без ветра",
+  "text.autoconfig.fallingleaves2.option.fallSpawnRateFactor":
+    "Множитель частоты появления осенних листьев",
+  "text.autoconfig.fallingleaves2.option.fallSpawnRateFactor.@Tooltip":
+    "Для Fabric Seasons и Serene Seasons",
+  "text.autoconfig.fallingleaves2.option.winterSpawnRateFactor":
+    "Множитель частоты появления зимних листьев",
+  "text.autoconfig.fallingleaves2.option.winterSpawnRateFactor.@Tooltip":
+    "Для Fabric Seasons и Serene Seasons",
+  "text.autoconfig.fallingleaves2.option.leafSpawners":
+    "Дополнительные состояния блоков, с которых падают листья",
+  "text.autoconfig.fallingleaves2.option.leafSpawners.@Tooltip[0]":
+    "Например, minecraft:pink_wool или minecraft:bamboo[leaves=large].",
+  "text.autoconfig.fallingleaves2.option.leafSpawners.@Tooltip[1]":
+    "После включения этой настройки требуется перезапуск!",
+  "text.autoconfig.fallingleaves2.option.startingSpawnRadius":
+    "Минимальный радиус появления",
+  "text.autoconfig.fallingleaves2.option.startingSpawnRadius.@Tooltip":
+    "Листья не будут появляться внутри этого радиуса вокруг игрока.",
+  "text.autoconfig.fallingleaves2.option.decaySpawnRateFactor":
+    "Множитель частоты появления разлагающихся листьев",
+  "text.autoconfig.fallingleaves2.option.decaySpawnRateFactor.@Tooltip":
+    "Регулирует частоту появления листьев, которые начинают разлагаться.",
+  "text.autoconfig.fallingleaves2.option.maxDecayLeaves":
+    "Максимальное количество разлагающихся листьев",
+  "text.autoconfig.fallingleaves2.option.maxDecayLeaves.@Tooltip[0]":
+    "Когда блок листьев разлагается/превращается в воздух, он порождает листья.",
+  "text.autoconfig.fallingleaves2.option.maxDecayLeaves.@Tooltip[1]":
+    "Работает только в одиночной игре.",
+  "text.autoconfig.fallingleaves2.option.registerParticles":
+    "Регистрировать частицы листьев",
+  "text.autoconfig.fallingleaves2.option.registerParticles.@Tooltip":
+    "Позволяет использовать команду /particle (в одиночной игре).\nМожет вызывать проблемы при хостинге LAN-серверов (например, через Essential),\nесли клиент не имеет установленного мода Falling Leaves.\nИзменение этой настройки требует перезапуска.",
+  "text.autoconfig.fallingleaves2.category.fallingleaves.general":
+    "Общие",
+  "text.autoconfig.fallingleaves2.category.fallingleaves.leafsettings":
+    "Настройки блоков листьев",
+  "text.autoconfig.fallingleaves2.category.fallingleaves.experimental":
+    "Экспериментальные",
+  "config.fallingleaves2.particle_implementation":
+    "Реализация частиц",
+  "config.fallingleaves2.particle_implementation.@Tooltip":
+    "\"Ванильная\" относится к использованию ванильного метода, который моды\nмогут использовать для добавления своей реализации.\n\"Обычная\", \"Хвойная\" и \"Сакура\" — это пользовательские реализации.\n\"Сакура\" близка к ванильной реализации и использует\nванильные текстуры.",
+  "config.fallingleaves2.particle_implementation.VANILLA":
+    "Ванильная",
+  "config.fallingleaves2.particle_implementation.REGULAR":
+    "Обычная",
+  "config.fallingleaves2.particle_implementation.CONIFER":
+    "Хвойная",
+  "config.fallingleaves2.particle_implementation.CHERRY":
+    "Сакура",
+  "config.fallingleaves2.spawn_rate_factor":
+    "Множитель частоты появления",
+  "config.fallingleaves2.spawn_rate_factor.@Tooltip":
+    "0% отключает появление, 100% означает базовую частоту появления",
+  "config.fallingleaves2.is_conifer":
+    "Это хвойные листья?",
+  "config.fallingleaves2.spawn_breaking_leaves":
+    "Падение листьев при ударе по этому блоку или его разложении?",
+  "modmenu.summaryTranslation.fallingleaves2":
+    "Добавляет падающие листья и другие эффекты частиц",
+  "modmenu.descriptionTranslation.fallingleaves2":
+    "Добавляет падающие листья и другие эффекты частиц для улучшения визуального восприятия."
+}
